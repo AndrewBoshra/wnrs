@@ -1,0 +1,4069 @@
+[
+ {
+  "id": "main-001",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT DOES MY INSTAGRAM TELL YOU ABOUT ME?",
+  "src": "p1c0"
+ },
+ {
+  "id": "main-002",
+  "deck": "main",
+  "level": "L1",
+  "text": "FINISH THE SENTENCE: JUST BY LOOKING AT YOU I’D THINK...",
+  "src": "p1c1"
+ },
+ {
+  "id": "main-003",
+  "deck": "main",
+  "level": "L1",
+  "text": "DO I REMIND YOU OF ANYONE?",
+  "src": "p1c2"
+ },
+ {
+  "id": "main-004",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "THINK OF YOUR FAVOURITE BRAND OF CEREAL. ON THE COUNT OF THREE, SAY YOUR ANSWERS OUT LOUD!",
+  "src": "p1c3"
+ },
+ {
+  "id": "main-005",
+  "deck": "main",
+  "level": "L1",
+  "text": "IF YOU WERE TO BUY ME A PRESENT KNOWING NOTHING ABOUT ME OTHER THAN WHAT I LOOK LIKE, WHAT WOULD IT BE?",
+  "src": "p1c4"
+ },
+ {
+  "id": "main-006",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "THINK OF YOUR FAVOURITE CHILDHOOD TV SHOW OF ALL TIME. ON THE COUNT OF THREE, SAY IT OUT LOUD.",
+  "src": "p1c5"
+ },
+ {
+  "id": "main-007",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT’S THE FIRST THING YOU NOTICED ABOUT ME?",
+  "src": "p1c6"
+ },
+ {
+  "id": "main-008",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT IS MY BODY LANGUAGE TELLING YOU RIGHT NOW?",
+  "src": "p1c7"
+ },
+ {
+  "id": "main-009",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT CHARACTER WOULD I PLAY IN A MOVIE?",
+  "src": "p3c0"
+ },
+ {
+  "id": "main-010",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT DO YOU THINK I’M MOST LIKELY TO SPLURGE ON?",
+  "src": "p3c1"
+ },
+ {
+  "id": "main-011",
+  "deck": "main",
+  "level": "L1",
+  "text": "HOW MANY SPEEDING TICKETS DO YOU THINK I’VE GOTTEN IN MY LIFE?",
+  "src": "p3c2"
+ },
+ {
+  "id": "main-012",
+  "deck": "main",
+  "level": "L1",
+  "text": "AS A CHILD, WHAT DO YOU THINK I WANTED TO BE?",
+  "src": "p3c3"
+ },
+ {
+  "id": "main-013",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT DOES MY PHONE WALLPAPER TELL YOU ABOUT ME?",
+  "src": "p3c4"
+ },
+ {
+  "id": "main-014",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "WRITE DOWN SOMETHING OTHERS WOULD NEVER GUESS ABOUT YOU BY JUST LOOKING AT YOU. COMPARE.",
+  "src": "p3c5"
+ },
+ {
+  "id": "main-015",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHO DO YOU THINK MY CELEBRITY CRUSH IS?",
+  "src": "p3c6"
+ },
+ {
+  "id": "main-016",
+  "deck": "main",
+  "level": "L1",
+  "text": "DO YOU THINK I’M USUALLY EARLY, ON TIME, OR LATE TO EVENTS? EXPLAIN.",
+  "src": "p3c7"
+ },
+ {
+  "id": "main-017",
+  "deck": "main",
+  "level": "L1",
+  "text": "DO YOU THINK I’VE EVER CHECKED AN EX’S PHONE FOR EVIDENCE?",
+  "src": "p5c0"
+ },
+ {
+  "id": "main-018",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT DO YOU THINK IS THE HARDEST PART OF WHAT I DO FOR A LIVING?",
+  "src": "p5c2"
+ },
+ {
+  "id": "main-019",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "CLOSE YOUR EYES. WHAT COLOUR ARE MY EYES.",
+  "src": "p5c3"
+ },
+ {
+  "id": "main-020",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT DO YOU THINK MY GO TO KARAOKE SONG IS?",
+  "src": "p5c4"
+ },
+ {
+  "id": "main-021",
+  "deck": "main",
+  "level": "L1",
+  "text": "DO YOU THINK I WAS POPULAR IN SCHOOL? EXPLAIN.",
+  "src": "p5c5"
+ },
+ {
+  "id": "main-022",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT ABOUT ME IS MOST STRANGE OR UNFAMILIAR TO YOU?",
+  "src": "p5c6"
+ },
+ {
+  "id": "main-023",
+  "deck": "main",
+  "level": "L1",
+  "text": "HOW LIKELY AM I TO GO CAMPING? HOW HIGH MAINTENANCE IS MY SET UP?",
+  "src": "p5c7"
+ },
+ {
+  "id": "main-024",
+  "deck": "main",
+  "level": "L1",
+  "text": "DO I SEEM LIKE A MORNING PERSON OR A NIGHT OWL? WHY?",
+  "src": "p7c0"
+ },
+ {
+  "id": "main-025",
+  "deck": "main",
+  "level": "L1",
+  "text": "DO YOU THINK I FALL IN LOVE EASILY? WHY OR WHY NOT?",
+  "src": "p7c1"
+ },
+ {
+  "id": "main-026",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT REALITY SHOW DO YOU THINK I’M MOST LIKELY TO BINGE WATCH? EXPLAIN.",
+  "src": "p7c2"
+ },
+ {
+  "id": "main-027",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "ASK AND ANSWER THE NEXT QUESTION IN A DIFFERENT ACCENT.",
+  "src": "p7c3"
+ },
+ {
+  "id": "main-028",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT SUBJECT DO YOU THINK I THRIVED IN AT SCHOOL? DID I FAIL ANY?",
+  "src": "p7c4"
+ },
+ {
+  "id": "main-029",
+  "deck": "main",
+  "level": "L1",
+  "text": "DO I SEEM LIKE SOMEONE WHO WOULD GET A NAME TATTOOED ON MYSELF? WHY OR WHY NOT?",
+  "src": "p7c5"
+ },
+ {
+  "id": "main-030",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT COMPLIMENT DO YOU THINK I HEAR THE MOST?",
+  "src": "p7c6"
+ },
+ {
+  "id": "main-031",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "MAINTAIN EYE CONTACT FOR THIRTY SECONDS. WHAT DID YOU NOTICE?",
+  "src": "p7c7"
+ },
+ {
+  "id": "main-032",
+  "deck": "main",
+  "level": "L1",
+  "text": "DO YOU THINK PLANTS THRIVE OR DIE IN MY CARE? EXPLAIN.",
+  "src": "p9c0"
+ },
+ {
+  "id": "main-033",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "DRAW A PICTURE TOGETHER (30 SECONDS).",
+  "src": "p9c1"
+ },
+ {
+  "id": "main-034",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT FAST FOOD RESTAURANT DO YOU THINK I’M MOST LIKELY TO DRIVE THROUGH? WHAT’S MY ORDER?",
+  "src": "p9c2"
+ },
+ {
+  "id": "main-035",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "MAKE AN ASSUMPTION ABOUT ME (BOTH PLAYERS).",
+  "src": "p9c3"
+ },
+ {
+  "id": "main-036",
+  "deck": "main",
+  "level": "L1",
+  "text": "DO YOU THINK I INTIMIDATE OTHERS? WHY OR WHY NOT?",
+  "src": "p9c4"
+ },
+ {
+  "id": "main-037",
+  "deck": "main",
+  "level": "L1",
+  "text": "IF MYSPACE WERE STILL A THING, WHAT WOULD MY PROFILE SONG BE?",
+  "src": "p9c5"
+ },
+ {
+  "id": "main-038",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "CLOSE YOUR EYES. WHAT COLOUR IS MY SHIRT?",
+  "src": "p9c6"
+ },
+ {
+  "id": "main-039",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "RATE YOUR DANCING SKILLS ON A SCALE OF 1-10. ON THE COUNT OF THREE, SAY YOUR ANSWERS OUT LOUD.",
+  "src": "p9c7"
+ },
+ {
+  "id": "main-040",
+  "deck": "main",
+  "level": "L1",
+  "text": "DO I SEEM LIKE MORE OF A CREATIVE TYPE OR ANALYTICAL TYPE? EXPLAIN.",
+  "src": "p11c0"
+ },
+ {
+  "id": "main-041",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "DRAW A PORTRAIT OF EACH OTHER TO THE BEST OF YOUR ABILITY (1 MINUTE).",
+  "src": "p11c1"
+ },
+ {
+  "id": "main-042",
+  "deck": "main",
+  "level": "L1",
+  "text": "ON A SCALE OF 1-10, HOW MESSY DO YOU THINK MY CAR IS? 1 BEING THE CLEANEST, 10 COMPLETE DISASTER. EXPLAIN.",
+  "src": "p11c2"
+ },
+ {
+  "id": "main-043",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT DOES MY STYLE TELL YOU ABOUT ME?",
+  "src": "p11c3"
+ },
+ {
+  "id": "main-044",
+  "deck": "main",
+  "level": "L1",
+  "text": "DO I SEEM LIKE A CAT OR DOG PERSON?",
+  "src": "p11c4"
+ },
+ {
+  "id": "main-045",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT ABOUT ME INTRIGUES YOU?",
+  "src": "p11c5"
+ },
+ {
+  "id": "main-046",
+  "deck": "main",
+  "level": "reminder",
+  "text": "LET GO OF YOUR ATTACHMENT TO THE OUTCOME.",
+  "src": "p11c6"
+ },
+ {
+  "id": "main-047",
+  "deck": "main",
+  "level": "L1",
+  "text": "DO I LOOK KIND? EXPLAIN.",
+  "src": "p11c7"
+ },
+ {
+  "id": "main-048",
+  "deck": "main",
+  "level": "L1",
+  "text": "WHAT WAS YOUR FIRST IMPRESSION OF ME?",
+  "src": "p13c0"
+ },
+ {
+  "id": "main-049",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT HAS BEEN YOUR EARLIEST RECOLLECTION OF HAPPINESS?",
+  "src": "p13c1"
+ },
+ {
+  "id": "main-050",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "BOTH PLAYERS WRITE THE MOST IMPORTANT THINGS IN LIFE TO YOU (30 SECONDS) COMPARE.",
+  "src": "p13c2"
+ },
+ {
+  "id": "main-051",
+  "deck": "main",
+  "level": "L2",
+  "text": "FINISH THE SENTENCES: STRANGERS WOULD DESCRIBE ME AS... ONLY I KNOW THAT I AM ...",
+  "src": "p13c3"
+ },
+ {
+  "id": "main-052",
+  "deck": "main",
+  "level": "L1",
+  "text": "DO YOU THINK I’VE EVER BEEN FIRED FROM A JOB? IF SO, WHAT FOR?",
+  "src": "p13c4"
+ },
+ {
+  "id": "main-053",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "QUESTIONS ARE AN ART FORM. CREATE YOUR OWN QUESTION.",
+  "src": "p13c5"
+ },
+ {
+  "id": "main-054",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "ALL PLAYERS WRITE AN EMBARRASSING FUN FACT ABOUT YOURSELVES. PLAY A GAME OF ROCK, PAPER, SCISSORS. LOSER MUST REVEAL!",
+  "src": "p13c6"
+ },
+ {
+  "id": "main-055",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT TITLE WOULD YOU GIVE THIS CHAPTER IN YOUR LIFE?",
+  "src": "p13c7"
+ },
+ {
+  "id": "main-056",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT PART OF YOUR LIFE WORKS? WHAT PART OF YOUR LIFE HURTS?",
+  "src": "p15c2"
+ },
+ {
+  "id": "main-057",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT QUESTION ARE YOU TRYING TO ANSWER MOST IN YOUR LIFE RIGHT NOW?",
+  "src": "p15c3"
+ },
+ {
+  "id": "main-058",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT LESSON TOOK YOU THE LONGEST TO UNLEARN?",
+  "src": "p15c5"
+ },
+ {
+  "id": "main-059",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT WOULD YOUR YOUNGER SELF NOT BELIEVE ABOUT YOUR LIFE TODAY?",
+  "src": "p15c6"
+ },
+ {
+  "id": "main-060",
+  "deck": "main",
+  "level": "L2",
+  "text": "HAVE YOU CHANGED YOUR MIND ABOUT ANYTHING RECENTLY?",
+  "src": "p15c7"
+ },
+ {
+  "id": "main-061",
+  "deck": "main",
+  "level": "L2",
+  "text": "IF YOU HAVE, WHEN WAS THE MOMENT YOU REALIZED YOU WEREN’T INVINCIBLE?",
+  "src": "p17c0"
+ },
+ {
+  "id": "main-062",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "SHOW THE FIRST PHOTO IN YOUR CAMERA ROLL. EXPLAIN.",
+  "src": "p17c1"
+ },
+ {
+  "id": "main-063",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT IS THE MOST UNEXPLAINABLE THING THAT’S EVER HAPPENED TO YOU?",
+  "src": "p17c2"
+ },
+ {
+  "id": "main-064",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "SING THE CHORUS TO YOUR FAVOURITE SONG OF ALL TIME.",
+  "src": "p17c3"
+ },
+ {
+  "id": "main-065",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT ARE YOU STILL TRYING TO PROVE TO YOURSELF?",
+  "src": "p17c4"
+ },
+ {
+  "id": "main-066",
+  "deck": "main",
+  "level": "L2",
+  "text": "ARE YOU LYING TO YOURSELF ABOUT ANYTHING?",
+  "src": "p17c5"
+ },
+ {
+  "id": "main-067",
+  "deck": "main",
+  "level": "L2",
+  "text": "HAVE YOU EVER TOLD I LOVE YOU BUT DIDN’T MEAN IT? IF SO, WHY?",
+  "src": "p17c6"
+ },
+ {
+  "id": "main-068",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "PRESS SHUFFLE ON YOUR MUSIC LIBRARY. EXPLAIN THE FIRST SONG THAT COMES UP.",
+  "src": "p17c7"
+ },
+ {
+  "id": "main-069",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "STARING CONTEST. FIRST TO BLINK MUST REVEAL A PERSONAL PROBLEM AND ASK YOUR PARTNER FOR ADVICE ON HOW THEY MIGHT HANDLE IT.",
+  "src": "p19c0"
+ },
+ {
+  "id": "main-070",
+  "deck": "main",
+  "level": "L2",
+  "text": "IS THERE A FEELING YOU MISS?",
+  "src": "p19c1"
+ },
+ {
+  "id": "main-071",
+  "deck": "main",
+  "level": "L2",
+  "text": "DESCRIBE YOUR PERFECT DAY.",
+  "src": "p19c2"
+ },
+ {
+  "id": "main-072",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT’S BEEN THE BEST COMPLIMENT A STRANGER HAS EVER GIVEN YOU?",
+  "src": "p19c3"
+ },
+ {
+  "id": "main-073",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT’S YOUR MOTHER’S NAME? AND THE MOST BEAUTIFUL THING ABOUT HER?",
+  "src": "p19c4"
+ },
+ {
+  "id": "main-074",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "CREATE A SECRET HANDSHAKE.",
+  "src": "p19c5"
+ },
+ {
+  "id": "main-075",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT’S THE MOST PAIN YOU’VE EVER BEEN IN THAT WASN’T PHYSICAL?",
+  "src": "p19c6"
+ },
+ {
+  "id": "main-076",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "ADMIT SOMETHING.",
+  "src": "p19c7"
+ },
+ {
+  "id": "main-077",
+  "deck": "main",
+  "level": "L2",
+  "text": "IF YOU COULD GET TO KNOW SOMEONE IN YOUR LIFE ON A DEEPER LEVEL, WHO WOULD IT BE AND WHY?",
+  "src": "p21c0"
+ },
+ {
+  "id": "main-078",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "SWAP SEATS WITH YOUR PARTNER.",
+  "src": "p21c1"
+ },
+ {
+  "id": "main-079",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHEN YOU’RE ASKED HOW ARE YOU, HOW OFTEN DO YOU ANSWER TRUTHFULLY?",
+  "src": "p21c2"
+ },
+ {
+  "id": "main-080",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT IS SOMETHING YOU WOULDN’T WANT TO CHANGE ABOUT YOURSELF?",
+  "src": "p21c3"
+ },
+ {
+  "id": "main-081",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT IS YOUR FIRST LOVE’S NAME AND THE REASON YOU FELL IN LOVE WITH THEM?",
+  "src": "p21c4"
+ },
+ {
+  "id": "main-082",
+  "deck": "main",
+  "level": "L2",
+  "text": "HOW ARE YOU, REALLY?",
+  "src": "p21c5"
+ },
+ {
+  "id": "main-083",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT IS A DREAM YOU’VE LET GO OF?",
+  "src": "p21c6"
+ },
+ {
+  "id": "main-084",
+  "deck": "main",
+  "level": "reminder",
+  "text": "BE MORE INTERESTED IN UNDERSTANDING OTHER THAN BEING UNDERSTOOD.",
+  "src": "p21c7"
+ },
+ {
+  "id": "main-085",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT’S YOUR FATHER’S NAME? AND TELL ME ONE THING ABOUT HIM.",
+  "src": "p23c0"
+ },
+ {
+  "id": "main-086",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "DRAW YOUR CURRENT MOOD. THEN COMPARE.",
+  "src": "p23c1"
+ },
+ {
+  "id": "main-087",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "THINK OF SOMETHING YOU STRONGLY DISLIKE THAT MOST PEOPLE LOVE. ON THE COUNT OF THREE, SAY IT OUT LOUD!",
+  "src": "p23c2"
+ },
+ {
+  "id": "main-088",
+  "deck": "main",
+  "level": "L2",
+  "text": "ARE YOU MISSING ANYONE RIGHT NOW? DO YOU THINK THEY ARE MISSING YOU TOO?",
+  "src": "p23c3"
+ },
+ {
+  "id": "main-089",
+  "deck": "main",
+  "level": "L2",
+  "text": "IF YOU COULD HAVE IT YOUR WAY: WHO WOULD YOU BE WITH? WHERE WOULD YOU BE? AND WHAT WOULD YOU BE DOING?",
+  "src": "p23c4"
+ },
+ {
+  "id": "main-090",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT ARE YOU MORE AFRAID OF, FAILURE OR SUCCESS? AND WHY?",
+  "src": "p23c5"
+ },
+ {
+  "id": "main-091",
+  "deck": "main",
+  "level": "L2",
+  "text": "HOW WOULD YOU DESCRIBE THE FEELING OF BEING IN LOVE IN ONE WORD?",
+  "src": "p23c6"
+ },
+ {
+  "id": "main-092",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "CALL SOMEONE YOU ADMIRE AND TELL THEM WHY YOU APPRECIATE THEM! (PUT ON SPEAKER PHONE)",
+  "src": "p23c7"
+ },
+ {
+  "id": "main-093",
+  "deck": "main",
+  "level": "L2",
+  "text": "HAS A STRANGER EVER CHANGED YOU LIFE?",
+  "src": "p25c0"
+ },
+ {
+  "id": "main-094",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT IS THE LAST THING YOU LIED TO YOUR MOTHER ABOUT?",
+  "src": "p25c1"
+ },
+ {
+  "id": "main-095",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "ASK A QUESTION YOU’D BEEN TOO AFRAID TO ASK. SOMETHING YOU WOULND’T DARE TO ASK.",
+  "src": "p25c2"
+ },
+ {
+  "id": "main-096",
+  "deck": "main",
+  "level": "L2",
+  "text": "HOW CAN YOU BECOME A BETTER PERSON?",
+  "src": "p25c3"
+ },
+ {
+  "id": "main-097",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT’S BEEN YOUR HAPPIEST MEMORY THIS PART YEAR?",
+  "src": "p25c4"
+ },
+ {
+  "id": "main-098",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT IS A COMPLIMENT YOU WISH YOU RECEIVED MORE FREQUENTLY?",
+  "src": "p25c5"
+ },
+ {
+  "id": "main-099",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHEN WAS THE LAST TIME YOU SURPRISED YOURSELF?",
+  "src": "p25c6"
+ },
+ {
+  "id": "main-100",
+  "deck": "main",
+  "level": "L2",
+  "text": "WHAT DO YOU CRAVE MORE OF?",
+  "src": "p25c7"
+ },
+ {
+  "id": "main-101",
+  "deck": "main",
+  "level": "L2",
+  "text": "DO YOU THINK THE IMAGE YOU HAVE OF YOURSELF MATCHES THE IMAGE PEOPLE SEE YOU AS?",
+  "src": "p27c0"
+ },
+ {
+  "id": "main-102",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT CAN I HELP YOU WITH?",
+  "src": "p27c1"
+ },
+ {
+  "id": "main-103",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "SWAP A SONG SUGGESTION YOUR PARTNER MAY ENJOY.",
+  "src": "p27c2"
+ },
+ {
+  "id": "main-104",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT DO YOU ADMIRE MOST ABOUT ME?",
+  "src": "p27c3"
+ },
+ {
+  "id": "main-105",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT DO I NEED TO HEAR RIGHT NOW?",
+  "src": "p27c4"
+ },
+ {
+  "id": "main-106",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT DO YOU RECOMMEND I LET GO OF, IF ANYTHING?",
+  "src": "p27c5"
+ },
+ {
+  "id": "main-107",
+  "deck": "main",
+  "level": "L3",
+  "text": "HOW DOES ONE EARN YOUR VULNERABILITY? HAVE I EARNED IT? HOW CAN I EARN MORE?",
+  "src": "p27c6"
+ },
+ {
+  "id": "main-108",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "TAKE A SELFIE TOGETHER.",
+  "src": "p27c7"
+ },
+ {
+  "id": "main-109",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "WRITE A SONG ABOUT YOUR PARTNER (30 SECONDS). THEN SING IT ALOUD.",
+  "src": "p29c0"
+ },
+ {
+  "id": "main-110",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT AM I MOST QUALIFIED TO GIVE ADVICE ABOUT?",
+  "src": "p29c1"
+ },
+ {
+  "id": "main-111",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "BOTH PLAYERS SHARE SOMETHING YOU’RE MOST GRATEFUL FOR IN THIS CURRENT MOMENT.",
+  "src": "p29c2"
+ },
+ {
+  "id": "main-112",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT ANSWER OF MINE MADE YOU LIGHT UP?",
+  "src": "p29c3"
+ },
+ {
+  "id": "main-113",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT WOULD BE THE PERFECT GIFT FOR ME?",
+  "src": "p29c4"
+ },
+ {
+  "id": "main-114",
+  "deck": "main",
+  "level": "L3",
+  "text": "DO YOU BELIEVE EVERYONE HAS A CALLING? IF SO, DO YOU THINK I’VE FOUND MINE?",
+  "src": "p29c5"
+ },
+ {
+  "id": "main-115",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHEN THIS GAME IS OVER, WHAT WILL YOU REMEMBER ABOUT ME?",
+  "src": "p29c6"
+ },
+ {
+  "id": "main-116",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "GIVE EACH OTHER NICKNAMES.",
+  "src": "p31c0"
+ },
+ {
+  "id": "main-117",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT DO YOU THINK I SHOULD KNOW ABOUT MYSELF THAT PERHAPS I’M UNAWARE OF?",
+  "src": "p31c1"
+ },
+ {
+  "id": "main-118",
+  "deck": "main",
+  "level": "L3",
+  "text": "BASED ON WHAT YOU LEARNED ABOUT ME, WHAT BOOK WOULD YOU RECOMMEND I READ?",
+  "src": "p31c2"
+ },
+ {
+  "id": "main-119",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT ABOUT ME MOST SURPRISED YOU?",
+  "src": "p31c3"
+ },
+ {
+  "id": "main-120",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT WOULD MAKE YOU FEEL CLOSER TO ME?",
+  "src": "p31c4"
+ },
+ {
+  "id": "main-121",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHY DO YOU THINK WE MET?",
+  "src": "p31c5"
+ },
+ {
+  "id": "main-122",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT DO YOU THINK I FEAT THE MOST?",
+  "src": "p31c6"
+ },
+ {
+  "id": "main-123",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "BOTH PLAYERS WRITE A NOTE TO YOUR YOUNGER SELVES (1 MINUTE). COMPARE.",
+  "src": "p31c7"
+ },
+ {
+  "id": "main-124",
+  "deck": "main",
+  "level": "L3",
+  "text": "HOW DO OUR PERSONALITIES COMPLEMENT EACH OTHER?",
+  "src": "p33c0"
+ },
+ {
+  "id": "main-125",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT PARTS OF YOURSELF DO YOU SEE IN ME?",
+  "src": "p33c1"
+ },
+ {
+  "id": "main-126",
+  "deck": "main",
+  "level": "L3",
+  "text": "BASED ON WHAT YOU LEARNED ABOUT ME, DOES MY SOCIAL MEDIA ACCURATELY REFLECT WHO I AM? WHY OR WHY NOT?",
+  "src": "p33c2"
+ },
+ {
+  "id": "main-127",
+  "deck": "main",
+  "level": "L3",
+  "text": "HOW WOULD YOU DESCRIBE ME TO A STRANGER?",
+  "src": "p33c3"
+ },
+ {
+  "id": "main-128",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT IS ONE THING YOU THINK I CAN DO THAT WOULD DRAMATICALLY IMPROVE MY LIFE?",
+  "src": "p33c4"
+ },
+ {
+  "id": "main-129",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT DO YOU THINK MY SUPERPOWER IS?",
+  "src": "p33c5"
+ },
+ {
+  "id": "main-130",
+  "deck": "main",
+  "level": "L3",
+  "text": "IN ONE WORD, HOW WOULD YOU DESCRIBE OUR CONVERSATION?",
+  "src": "p33c6"
+ },
+ {
+  "id": "main-131",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "DARE YOUR PARTNER TO DO SOMETHING OUTSIDE OF THEIR COMFORT ZONE IN THE NEXT WEEK.",
+  "src": "p33c7"
+ },
+ {
+  "id": "main-132",
+  "deck": "main",
+  "level": "L3",
+  "text": "IF WE WERE IN A BAND, WHAT WOULD OUR NAME BE?",
+  "src": "p35c0"
+ },
+ {
+  "id": "main-133",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT CAN WE CREATE TOGETHER?",
+  "src": "p35c1"
+ },
+ {
+  "id": "main-134",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT ABOUT ME IS HARDEST FOR YOU TO UNDERSTAND?",
+  "src": "p35c2"
+ },
+ {
+  "id": "main-135",
+  "deck": "main",
+  "level": "L3",
+  "text": "BASED ON WHAT YOU KNOW ABOUT ME, DO YOU HAVE ANY NETFLIX RECOMMENDATIONS?",
+  "src": "p35c3"
+ },
+ {
+  "id": "main-136",
+  "deck": "main",
+  "level": "L3",
+  "text": "IN ONE WORD, DESCRIBE HOW YOU FEEL RIGHT NOW.",
+  "src": "p35c4"
+ },
+ {
+  "id": "main-137",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "CREATE YOUR OWN QUESTION. MAKE IT COUNT.",
+  "src": "p35c5"
+ },
+ {
+  "id": "main-138",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT DO YOU THINK MY WEAKNESS IS?",
+  "src": "p35c6"
+ },
+ {
+  "id": "main-139",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "WRITE DOWN A GOAL FOR THIS YEAR. FOLD & EXCHANGE. HOLD EACH OTHER ACCOUNTABLE.",
+  "src": "p35c7"
+ },
+ {
+  "id": "main-140",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT DO YOU THINK OUR MOST IMPORTANT SIMILARITY IS?",
+  "src": "p37c0"
+ },
+ {
+  "id": "main-141",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "WRITE DOWN ONE THING YOU WANT TO LET GO OF THIS YEAR. READ OUT LOUD, THEN RIP UP TOGETHER.",
+  "src": "p37c1"
+ },
+ {
+  "id": "main-142",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "SCROLL THROUGH EACH OTHER’S INSTAGRAMS. FIND THE PICTURE YOU FEEL BEST REPRESENTS YOUR PARTNER’S ESSENCE AND COMMENT ON WHY.",
+  "src": "p37c2"
+ },
+ {
+  "id": "main-143",
+  "deck": "main",
+  "level": "final",
+  "text": "EACH PLAYER WRITE A MESSAGE TO THE OTHER. FOLD AND EXCHANGE. OPEN ONLY ONCE YOU TWO HAVE PARTED.",
+  "src": "p37c3"
+ },
+ {
+  "id": "main-144",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "PLAY A ROUND OF ROCK, PAPER, SCISSORS. WINNER CAN ASK THEIR PARTNER ANYTHING. LOSER MUST ANSWER.",
+  "src": "p37c4"
+ },
+ {
+  "id": "main-145",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "GIVE YOUR PARTNER A COMPLIMENT YOU DON’T THINK THEY HEAR ENOUGH.",
+  "src": "p37c5"
+ },
+ {
+  "id": "main-146",
+  "deck": "main",
+  "level": "L3",
+  "text": "WHAT HAS THIS CONVERSATION TAUGHT YOU ABOUT YOURSELF?",
+  "src": "p37c6"
+ },
+ {
+  "id": "main-147",
+  "deck": "main",
+  "level": "wildcard",
+  "text": "GIVE YOUR PARTNER A HUNG. NOT THE CRAPPY KIND. A WARM FLUFFY ONE.",
+  "src": "p37c7"
+ },
+ {
+  "id": "honest-dating-001",
+  "deck": "honest-dating",
+  "level": "L1",
+  "text": "JUST BY LOOKING AT ME, WHAT WOULD YOU THINK I DO FOR A LIVING?",
+  "src": "p39c0"
+ },
+ {
+  "id": "honest-dating-002",
+  "deck": "honest-dating",
+  "level": "L1",
+  "text": "WHAT DO YOU THINK MY TYPE IS? DESCRIBE IN DETAIL.",
+  "src": "p39c1"
+ },
+ {
+  "id": "honest-dating-003",
+  "deck": "honest-dating",
+  "level": "L1",
+  "text": "DO YOU THINK I’M STILL ON GOOD TERMS WITH MY EXES? WHY OR WHY NOT?",
+  "src": "p39c2"
+ },
+ {
+  "id": "honest-dating-004",
+  "deck": "honest-dating",
+  "level": "L1",
+  "text": "WHAT DO YOU THINK I WAS LIKE IN HIGH SCHOOL? EXPLAIN.",
+  "src": "p39c3"
+ },
+ {
+  "id": "honest-dating-005",
+  "deck": "honest-dating",
+  "level": "L1",
+  "text": "HOW MANY RELATIONSHIPS DO YOU THINK I’VE BEEN IN? HOW MANY TIMES DO YOU THINK I’VE BEEN IN LOVE? EXPLAIN.",
+  "src": "p39c4"
+ },
+ {
+  "id": "honest-dating-006",
+  "deck": "honest-dating",
+  "level": "L1",
+  "text": "WHAT DO YOU THINK MY DRINK OF CHOICE IS?",
+  "src": "p39c5"
+ },
+ {
+  "id": "honest-dating-007",
+  "deck": "honest-dating",
+  "level": "L1",
+  "text": "WHAT WAS THE FIRST THING YOU NOTICED ABOUT ME WHEN WE MET IN PERSON?",
+  "src": "p39c6"
+ },
+ {
+  "id": "honest-dating-008",
+  "deck": "honest-dating",
+  "level": "wildcard",
+  "text": "WRITE DOWN YOUR 3 FAVOURITE PHYSICAL FEATURES OF YOUR PARTNER. READ THEM OUT LOUD.",
+  "src": "p39c7"
+ },
+ {
+  "id": "honest-dating-009",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "HAVE YOU EVER CONSIDERED AN OPEN RELATIONSHIP? WHY OR WHY NOT?",
+  "src": "p41c0"
+ },
+ {
+  "id": "honest-dating-010",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHEN’S THE LAST TIME YOU GHOSTED SOMEONE AND WHY?",
+  "src": "p41c1"
+ },
+ {
+  "id": "honest-dating-011",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHO IN YOUR LIFE DO YOU FEEL MOST YOURSELF AROUND? WHY?",
+  "src": "p41c2"
+ },
+ {
+  "id": "honest-dating-012",
+  "deck": "honest-dating",
+  "level": "wildcard",
+  "text": "THINK OF THE MOST UNDERRATED SHOW STREAMING CURRENTLY. ON THE COUNT OF 3, SAY YOUR ANSWERS OUT LOUD.",
+  "src": "p41c3"
+ },
+ {
+  "id": "honest-dating-013",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHAT ARE YOU FEELING A LOT LATELY?",
+  "src": "p41c4"
+ },
+ {
+  "id": "honest-dating-014",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "HOW EMOTIONALLY AVAILABLE DO YOU CURRENTLY FEEL? EXPLAIN.",
+  "src": "p41c5"
+ },
+ {
+  "id": "honest-dating-015",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHAT DID THE PEOPLE WHO RAISED YOU TEACH YOU ABOUT LOVE? HOW HAS THAT SHAPED YOUR VIEWS ON LOVE TODAY?",
+  "src": "p41c6"
+ },
+ {
+  "id": "honest-dating-016",
+  "deck": "honest-dating",
+  "level": "wildcard",
+  "text": "GIVE EACH OTHER TATTOOS WITH THE NEAREST PEN OR MARKER (30 SECONDS).",
+  "src": "p41c7"
+ },
+ {
+  "id": "honest-dating-017",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHAT HAVE YOU TOLERATED FROM OTHERS IN THE PAST THAT YOU NO LONGER HAVE SPACE FOR?",
+  "src": "p43c0"
+ },
+ {
+  "id": "honest-dating-018",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "HOW HAS YOUR VIEW ON LOVE EVOLVED OVER TIME, IF AT ALL?",
+  "src": "p43c1"
+ },
+ {
+  "id": "honest-dating-019",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHAT ARE YOU OVERTHINKING RIGHT NOW?",
+  "src": "p43c2"
+ },
+ {
+  "id": "honest-dating-020",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "I KNOW I REALLY LIKE SOMEONE WHEN...",
+  "src": "p43c3"
+ },
+ {
+  "id": "honest-dating-021",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "DESCRIBE YOUR WORST HEARTBREAK. WHAT DID IT TEACH YOU?",
+  "src": "p43c4"
+ },
+ {
+  "id": "honest-dating-022",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "DO YOU HAVE ANY UNCONVENTIONAL OPINIONS WHEN IT COMES TO ROMANTIC RELATIONSHIPS?",
+  "src": "p43c5"
+ },
+ {
+  "id": "honest-dating-023",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHICH ONE OF YOUR PARENTS’ PERSONALITY TRAITS DO YOU WANT TO KEEP? LET GO OF?",
+  "src": "p43c6"
+ },
+ {
+  "id": "honest-dating-024",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHAT DATING ADVICE WOULD YOU GIVE YOUR YOUNGER SELF?",
+  "src": "p43c7"
+ },
+ {
+  "id": "honest-dating-025",
+  "deck": "honest-dating",
+  "level": "wildcard",
+  "text": "WRITE DOWN YOUR TOP 2 RELATIONSHIP DEAL BREAKERS. BOTH PLAYERS. COMPARE.",
+  "src": "p45c0"
+ },
+ {
+  "id": "honest-dating-026",
+  "deck": "honest-dating",
+  "level": "wildcard",
+  "text": "WRITE DOWN THE TOP 3 MOST IMPORTANT QUALITIES IN A ROMANTIC PARTNER. COMPARE.",
+  "src": "p45c1"
+ },
+ {
+  "id": "honest-dating-027",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHAT PART OF YOUR JOB ENERGIZES YOU THE MOST? LEAVES YOU THE MOST DRAINED?",
+  "src": "p45c2"
+ },
+ {
+  "id": "honest-dating-028",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHAT’S A NON-NEGOTIABLE IN YOUR LIFE?",
+  "src": "p45c4"
+ },
+ {
+  "id": "honest-dating-029",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHAT DO YOUR FRIENDS KNOW ABOUT ME, IF ANYTHING?",
+  "src": "p45c5"
+ },
+ {
+  "id": "honest-dating-030",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "HOW DO YOU DEFINE “DATING”?",
+  "src": "p45c6"
+ },
+ {
+  "id": "honest-dating-031",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHAT HAS BEING SINGLE TAUGHT YOU ABOUT YOURSELF?",
+  "src": "p47c0"
+ },
+ {
+  "id": "honest-dating-032",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHAT ABOUT ME INTRIGUED YOU BESIDES MY PHYSICAL APPEARANCE?",
+  "src": "p47c1"
+ },
+ {
+  "id": "honest-dating-033",
+  "deck": "honest-dating",
+  "level": "wildcard",
+  "text": "WRITE DOWN YOUR FAVOURITE SONG LYRIC YOU CAN THINK OF THE TOP OF YOUR HEAD. COMPARE AND EXPLAIN.",
+  "src": "p47c2"
+ },
+ {
+  "id": "honest-dating-034",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHAT IS SOMETHING NEW YOU’VE LEARNED ABOUT YOURSELF RECENTLY?",
+  "src": "p47c4"
+ },
+ {
+  "id": "honest-dating-035",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "HAS SEX EVER BEEN A DEAL BREAKER IN YOUR PAST RELATIONSHIPS? EXPLAIN.",
+  "src": "p47c5"
+ },
+ {
+  "id": "honest-dating-036",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHAT’S THE HARDEST PART ABOUT DATING YOU?",
+  "src": "p47c6"
+ },
+ {
+  "id": "honest-dating-037",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHAT ABOUT YOU HAS FELT REPEATEDLY MISUNDERSTOOD BY OTHERS, IF ANYTHING?",
+  "src": "p49c0"
+ },
+ {
+  "id": "honest-dating-038",
+  "deck": "honest-dating",
+  "level": "wildcard",
+  "text": "ASK LITERALLY ANYTHING. PERMISSION TO GO THERE.",
+  "src": "p49c1"
+ },
+ {
+  "id": "honest-dating-039",
+  "deck": "honest-dating",
+  "level": "wildcard",
+  "text": "SHARE SOMETHING YOU TYPICALLY WOULDN’T ON A FIRST DATE.",
+  "src": "p49c2"
+ },
+ {
+  "id": "honest-dating-040",
+  "deck": "honest-dating",
+  "level": "L3",
+  "text": "IF YOU WERE TO WRITE MY DATING PROFILE BIO, WHAT WOULD IT SAY?",
+  "src": "p49c3"
+ },
+ {
+  "id": "honest-dating-041",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHAT WAS THE WORST DATE YOU’VE EVER BEEN ON AND WHY?",
+  "src": "p49c4"
+ },
+ {
+  "id": "honest-dating-042",
+  "deck": "honest-dating",
+  "level": "L3",
+  "text": "WHAT PART OF MY PERSONALITY ISN’T SHOWCASED ONLINE?",
+  "src": "p49c5"
+ },
+ {
+  "id": "honest-dating-043",
+  "deck": "honest-dating",
+  "level": "L3",
+  "text": "WHAT MANNERISMS OF MINE STOOD OUT THE MOST TO YOU, IF ANY?",
+  "src": "p49c6"
+ },
+ {
+  "id": "honest-dating-044",
+  "deck": "honest-dating",
+  "level": "L3",
+  "text": "HOW WOULD YOU DESCRIBE OUR DATE IN ONE WORD?",
+  "src": "p49c7"
+ },
+ {
+  "id": "honest-dating-045",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "WHAT SONG SHOULD I LISTEN TO ON MY WAY ONE?",
+  "src": "p51c0"
+ },
+ {
+  "id": "honest-dating-046",
+  "deck": "honest-dating",
+  "level": "wildcard",
+  "text": "LOOK THROUGH EACH OTHER’S SOCIAL MEDIA. PICK YOUR FAVOURITE PHOTO. COMPARE AND EXPLAIN?",
+  "src": "p51c1"
+ },
+ {
+  "id": "honest-dating-047",
+  "deck": "honest-dating",
+  "level": "wildcard",
+  "text": "WRITE YOUR PARTNER A TEXT OUTSIDE YOUR COMFORT ZONE AT THE END OF THIS DATE.",
+  "src": "p51c2"
+ },
+ {
+  "id": "relationship-001",
+  "deck": "relationship",
+  "level": "L1",
+  "text": "WHO DO YOU THINK WAS MORE NERVOUS ON OUR FIRST DATE? EXPLAIN.",
+  "src": "p51c3"
+ },
+ {
+  "id": "honest-dating-048",
+  "deck": "honest-dating",
+  "level": "L2",
+  "text": "BASED ON WHAT YOU’VE LEARNED ABOUT ME, WHAT DO YOU THINK I’M LOOKING FOR ROMANTICALLY?",
+  "src": "p51c4"
+ },
+ {
+  "id": "honest-dating-049",
+  "deck": "honest-dating",
+  "level": "L3",
+  "text": "WHAT DO YOU FIND MOST ATTRACTIVE ABOUT ME THAT ISN’T PHYSICAL?",
+  "src": "p51c5"
+ },
+ {
+  "id": "honest-dating-050",
+  "deck": "honest-dating",
+  "level": "L3",
+  "text": "ON A SCALE 1-10 HOW “EMOTIONALLY AVAILABLE” DO I SEEM? EXPLAIN.",
+  "src": "p51c6"
+ },
+ {
+  "id": "relationship-002",
+  "deck": "relationship",
+  "level": "L1",
+  "text": "HOW IMPORTANT DO YOU THINK BIRTHDAYS AND HOLIDAYS ARE TO ME?",
+  "src": "p51c7"
+ },
+ {
+  "id": "relationship-003",
+  "deck": "relationship",
+  "level": "L1",
+  "text": "WHAT DO YOU THINK MY PERFECT DATE NIGHT WOULD BE?",
+  "src": "p53c0"
+ },
+ {
+  "id": "relationship-004",
+  "deck": "relationship",
+  "level": "L1",
+  "text": "WHAT WAS THE FIRST THING YOU NOTICED ABOUT ME?",
+  "src": "p53c1"
+ },
+ {
+  "id": "relationship-005",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT HAS THIS RELATIONSHIP TAUGHT YOU ABOUT YOURSELF?",
+  "src": "p53c2"
+ },
+ {
+  "id": "relationship-006",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "ARE THERE ANY INSECURITIES FROM PREVIOUS RELATIONSHIPS THAT YOU CARRIED INTO THIS ONE? IF SO, WHAT ARE THEY?",
+  "src": "p53c3"
+ },
+ {
+  "id": "relationship-007",
+  "deck": "relationship",
+  "level": "L1",
+  "text": "WHAT ASSUMPTION DID YOU MAKE ABOUT ME THAT TURNED OUT TO BE FALSE?",
+  "src": "p53c4"
+ },
+ {
+  "id": "relationship-008",
+  "deck": "relationship",
+  "level": "L1",
+  "text": "ON A SCALE OF 1-10, HOW OPEN DO YOU FEEL I AM WITH YOU? EXPLAIN.",
+  "src": "p53c5"
+ },
+ {
+  "id": "relationship-009",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT DID OUR WORST ARGUMENT TEACH YOU?",
+  "src": "p53c6"
+ },
+ {
+  "id": "relationship-010",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHEN WAS THE LAST TIME I HURT YOU, PERHAPS UNINTENTIONALLY?",
+  "src": "p53c7"
+ },
+ {
+  "id": "relationship-011",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "HOW DOES ONE EARN YOUR TRUST? HAVE I EARNED IT? HOW CAN I EARN MORE?",
+  "src": "p55c0"
+ },
+ {
+  "id": "relationship-012",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT HAVE YOU BEEN EXTRA SENSITIVE TO LATELY?",
+  "src": "p55c1"
+ },
+ {
+  "id": "relationship-013",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT FEAR DO YOU THINK HOLDS ME BACK THE MOST?",
+  "src": "p55c2"
+ },
+ {
+  "id": "relationship-014",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT SONG BEST DESCRIBES OUR RELATIONSHIP?",
+  "src": "p55c3"
+ },
+ {
+  "id": "relationship-015",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT ARE YOU CURRENTLY WORKING THROUGH THAT I DON’T SEE, IF ANYTHING?",
+  "src": "p55c4"
+ },
+ {
+  "id": "relationship-016",
+  "deck": "relationship",
+  "level": "wildcard",
+  "text": "ASK YOUR PARTNER SOMETHING YOU’VE NEVER ASKED THEM BEFORE.",
+  "src": "p55c5"
+ },
+ {
+  "id": "relationship-017",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "HAVE I HELPED YOU CHANGE YOUR MIND ABOUT ANYTHING?",
+  "src": "p55c6"
+ },
+ {
+  "id": "relationship-018",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "HOW DO I SHOW THAT I LOVE WITHOUT TELLING YOU?",
+  "src": "p55c7"
+ },
+ {
+  "id": "relationship-019",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT MADE YOU FALL IN LOVE WITH ME?",
+  "src": "p57c0"
+ },
+ {
+  "id": "relationship-020",
+  "deck": "relationship",
+  "level": "wildcard",
+  "text": "DRAW ONE OF YOUR FAVOURITE MEMORIES FROM OUT RELATIONSHIP (30 SECONDS). COMPARE.",
+  "src": "p57c1"
+ },
+ {
+  "id": "relationship-021",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT’S ONE SMALL WAY WE CAN IMPROVE OUR SEX LIFE?",
+  "src": "p57c2"
+ },
+ {
+  "id": "relationship-022",
+  "deck": "relationship",
+  "level": "wildcard",
+  "text": "WRITE DOWN THE TITLE YOU WOULD GIVE THIS CHAPTER OF OUR RELATIONSHIP. COMPARE.",
+  "src": "p57c3"
+ },
+ {
+  "id": "relationship-023",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT DO YOU WISH WE DID MORE OF?",
+  "src": "p57c4"
+ },
+ {
+  "id": "relationship-024",
+  "deck": "relationship",
+  "level": "wildcard",
+  "text": "WRITE A LOVE SONG FOR YOUR PARTNER (1 MINUTE). PERFORM FOR EACH OTHER.",
+  "src": "p57c5"
+ },
+ {
+  "id": "relationship-025",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT IMMEDIATELY ATTRACTED YOU TO ME? WHAT ATTRACTED YOU MORE OVER TIME?",
+  "src": "p57c6"
+ },
+ {
+  "id": "relationship-026",
+  "deck": "relationship",
+  "level": "wildcard",
+  "text": "ON A SCALE OF 1-10 WRITE DOWN THE IMPORTANCE OF HAVING KIDS TO YOU. COMPARE AND EXPLAIN.",
+  "src": "p57c7"
+ },
+ {
+  "id": "relationship-027",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "THE HARDEST THING FOR ME TO REVEAL ABOUT MYSELF TO YOU WAS...",
+  "src": "p59c0"
+ },
+ {
+  "id": "relationship-028",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT’S THE BEST GIFT I’VE GIVEN YOU? MATERIAL AND IMMATERIAL?",
+  "src": "p59c1"
+ },
+ {
+  "id": "relationship-029",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT’S THE MOST ATTRACTIVE THING I DO WITHOUT REALIZING IT?",
+  "src": "p59c2"
+ },
+ {
+  "id": "relationship-030",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "FINISH THE SENTENCE: THANK YOU FOR ACCEPTING...",
+  "src": "p59c4"
+ },
+ {
+  "id": "relationship-031",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT’S THE MOST ROMANTIC THING I’VE DONE FOR YOU RECENTLY?",
+  "src": "p59c5"
+ },
+ {
+  "id": "relationship-032",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "HOW DOES OUR AGE DIFFERENCE, OR LACK THEREOF, AFFECT US? IF AT ALL?",
+  "src": "p59c6"
+ },
+ {
+  "id": "relationship-033",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT HAVE I HELPED YOU APPRECIATE ABOUT YOURSELF?",
+  "src": "p61c0"
+ },
+ {
+  "id": "relationship-034",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT’S ONE SMALL WAY I CAN BE A BETTER PARTNER?",
+  "src": "p61c1"
+ },
+ {
+  "id": "relationship-035",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT ABOUT YOU FEELS HARDEST TO LOVE?",
+  "src": "p61c2"
+ },
+ {
+  "id": "relationship-036",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "HOW DO OUR STRENGTHS AND WEAKNESSES COMPLEMENT EACH OTHER?",
+  "src": "p61c3"
+ },
+ {
+  "id": "relationship-037",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT’S THE MOST IMPORTANT LESSON A PAST RELATIONSHIP HAS TAUGHT YOU?",
+  "src": "p61c4"
+ },
+ {
+  "id": "relationship-038",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "DO YOU THINK MY JOB AFFECTS ME POSITIVELY OR NEGATIVELY? HOW DOES IT AFFECT US?",
+  "src": "p61c5"
+ },
+ {
+  "id": "relationship-039",
+  "deck": "relationship",
+  "level": "wildcard",
+  "text": "WRITE A SHORT GUIDE OF HOW TO LOVE YOUR PARTNER WELL (30 SECONDS).",
+  "src": "p61c6"
+ },
+ {
+  "id": "relationship-040",
+  "deck": "relationship",
+  "level": "wildcard",
+  "text": "WRITE DOWN THE TOP 3 THINGS YOUR PARTNER DOES THAT MAKES YOU FEEL THE MOST LOVED. COMPARE.",
+  "src": "p61c7"
+ },
+ {
+  "id": "relationship-041",
+  "deck": "relationship",
+  "level": "wildcard",
+  "text": "WRITE DOWN ONE SMALL WAY YOU CAN BE BETTER IN THIS RELATIONSHIP. COMPARE.",
+  "src": "p63c0"
+ },
+ {
+  "id": "relationship-042",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT RECENT EXPERIENCE MADE YOU FEEL CLOSER TO ME?",
+  "src": "p63c1"
+ },
+ {
+  "id": "relationship-043",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT FEELINGS ARE HARD FOR YOU TO COMMUNICATE TO ME? HOW CAN I MAKE IT EASIER?",
+  "src": "p63c2"
+ },
+ {
+  "id": "relationship-044",
+  "deck": "relationship",
+  "level": "L3",
+  "text": "THANK YOU FOR HELPING ME REALISE____ABOUT MYSELF.",
+  "src": "p63c3"
+ },
+ {
+  "id": "relationship-045",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "HOW HAVE YOU SEEN ME GROW IN THIS RELATIONSHIP?",
+  "src": "p63c4"
+ },
+ {
+  "id": "relationship-046",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT WOULD A DAY OF COMPLETELY SPOILING ME LOOK LIKE?",
+  "src": "p63c5"
+ },
+ {
+  "id": "relationship-047",
+  "deck": "relationship",
+  "level": "L3",
+  "text": "IS THERE ANYTHING YOU STILL DON’T KNOW ABOUT ME THAT YOU WISH YOU DID?",
+  "src": "p63c6"
+ },
+ {
+  "id": "relationship-048",
+  "deck": "relationship",
+  "level": "L3",
+  "text": "WHAT ABOUT OUR RELATIONSHIP ARE YOU PROUDEST OF?",
+  "src": "p63c7"
+ },
+ {
+  "id": "relationship-049",
+  "deck": "relationship",
+  "level": "L3",
+  "text": "WHAT DON’T I GIVE MYSELF ENOUGH CREDIT FOR?",
+  "src": "p65c0"
+ },
+ {
+  "id": "relationship-050",
+  "deck": "relationship",
+  "level": "L3",
+  "text": "WHAT DID THIS CONVERSATION TEACH YOU ABOUT OUR RELATIONSHIP? WHAT DID IT TEACH YOU ABOUT YOURSELF?",
+  "src": "p65c1"
+ },
+ {
+  "id": "relationship-051",
+  "deck": "relationship",
+  "level": "wildcard",
+  "text": "WRITE DOWN YOUR INTENTION FOR OUR RELATIONSHIP. COMPARE.",
+  "src": "p65c2"
+ },
+ {
+  "id": "inner-circle-001",
+  "deck": "inner-circle",
+  "level": "L1",
+  "text": "WHAT DO YOU THINK I’M MOST SENSITIVE TO?",
+  "src": "p65c3"
+ },
+ {
+  "id": "relationship-052",
+  "deck": "relationship",
+  "level": "L3",
+  "text": "WHAT GOAL WOULD FEEL BEST FOR YOU TO ACCOMPLISH THIS YEAR? HOW CAN I SUPPORT YOU IN THAT?",
+  "src": "p65c4"
+ },
+ {
+  "id": "relationship-053",
+  "deck": "relationship",
+  "level": "L3",
+  "text": "WHAT ANSWER OF MINE SURPRISED YOU THE MOST THROUGHOUT THIS GAME, IF ANY?",
+  "src": "p65c5"
+ },
+ {
+  "id": "inner-circle-002",
+  "deck": "inner-circle",
+  "level": "L1",
+  "text": "WHAT DO YOU THINK MY MAIN LOVE LANGUAGE IS?",
+  "src": "p65c6"
+ },
+ {
+  "id": "relationship-054",
+  "deck": "relationship",
+  "level": "wildcard",
+  "text": "WRITE DOWN THE TOP 3 THINGS YOU’RE MOST GRATEFUL FOR IN YOUR PARTNER (30 SECONDS). COMPARE.",
+  "src": "p65c7"
+ },
+ {
+  "id": "relationship-055",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT ARE YOU CURRENTLY WORKING THROUGH THAT I DON’T SEE?",
+  "src": "p67c0"
+ },
+ {
+  "id": "inner-circle-003",
+  "deck": "inner-circle",
+  "level": "L2",
+  "text": "WHAT’S BROUGHT YOU THE MOST UNEXPECTED JOY RECENTLY?",
+  "src": "p67c1"
+ },
+ {
+  "id": "inner-circle-004",
+  "deck": "inner-circle",
+  "level": "wildcard",
+  "text": "SING YOUR FAVOURITE SONG LYRICS YOU CAN THINK OF OFF THE TOP OF YOUR HEADS.",
+  "src": "p67c2"
+ },
+ {
+  "id": "inner-circle-005",
+  "deck": "inner-circle",
+  "level": "L2",
+  "text": "HOW CAN I ADD 1% MORE HAPPINESS TO YOUR LIFE?",
+  "src": "p67c3"
+ },
+ {
+  "id": "relationship-056",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHEN’S THE LAST TIME I SURPRISED YOU?",
+  "src": "p67c4"
+ },
+ {
+  "id": "inner-circle-006",
+  "deck": "inner-circle",
+  "level": "L2",
+  "text": "WHAT ANSWER OF MINE SURPRISED YOU THE MOST THROUGHOUT THIS GAME, IF ANY?",
+  "src": "p67c5"
+ },
+ {
+  "id": "inner-circle-007",
+  "deck": "inner-circle",
+  "level": "wildcard",
+  "text": "DRAW YOUR FAVOURITE MEMORY WITH ME.",
+  "src": "p67c6"
+ },
+ {
+  "id": "inner-circle-008",
+  "deck": "inner-circle",
+  "level": "wildcard",
+  "text": "FINISH THE SENTENCE: WHEN I’M HURT I...",
+  "src": "p67c7"
+ },
+ {
+  "id": "relationship-057",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT’S THE HARDEST TRUTH YOU HAD TO FACE THIS PAST YEAR?",
+  "src": "p69c0"
+ },
+ {
+  "id": "inner-circle-009",
+  "deck": "inner-circle",
+  "level": "L2",
+  "text": "WHEN’S THE LAST TIME YOU FELT LUCKY TO BE YOU?",
+  "src": "p69c1"
+ },
+ {
+  "id": "inner-circle-010",
+  "deck": "inner-circle",
+  "level": "wildcard",
+  "text": "SET AN INTENTION FOR NEXT WEEK. STICK TO IT.",
+  "src": "p69c2"
+ },
+ {
+  "id": "inner-circle-011",
+  "deck": "inner-circle",
+  "level": "L2",
+  "text": "WHO IN YOUR LIFE DO YOU FEEL YOU CAN BE MOST VULNERABLE WITH? EXPLAIN.",
+  "src": "p69c3"
+ },
+ {
+  "id": "relationship-058",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "A PERFECT DAY TOGETHER WOULD BE...",
+  "src": "p69c4"
+ },
+ {
+  "id": "inner-circle-012",
+  "deck": "inner-circle",
+  "level": "L2",
+  "text": "WHAT IS A MOMENT IN OUR RELATIONSHIP THAT YOU FELT UNDENIABLY LOVED?",
+  "src": "p69c5"
+ },
+ {
+  "id": "inner-circle-013",
+  "deck": "inner-circle",
+  "level": "L2",
+  "text": "WHEN WAS THE LAST TIME YOU FELT MOST YOURSELF?",
+  "src": "p69c6"
+ },
+ {
+  "id": "inner-circle-014",
+  "deck": "inner-circle",
+  "level": "L2",
+  "text": "WHAT’S A FEELING YOU’RE UNCOMFORTABLE SHARING WITH ME?",
+  "src": "p69c7"
+ },
+ {
+  "id": "relationship-059",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "HOW CAN I BEST SUPPORT YOU IN THIS CHAPTER IN YOUR LIFE?",
+  "src": "p71c0"
+ },
+ {
+  "id": "inner-circle-015",
+  "deck": "inner-circle",
+  "level": "L2",
+  "text": "HAVE I EVER CHALLENGED YOUR WORLDVIEW? HOW SO?",
+  "src": "p71c1"
+ },
+ {
+  "id": "inner-circle-016",
+  "deck": "inner-circle",
+  "level": "wildcard",
+  "text": "ASK ME SOMETHING YOU THINK IS OFF LIMITS.",
+  "src": "p71c2"
+ },
+ {
+  "id": "inner-circle-017",
+  "deck": "inner-circle",
+  "level": "L3",
+  "text": "YOU’VE SHOWN ME____ ABOUT MYSELF.",
+  "src": "p71c3"
+ },
+ {
+  "id": "relationship-060",
+  "deck": "relationship",
+  "level": "L2",
+  "text": "WHAT’S THE MOST FUN YOU CAN REMEMBER HAVING WITH ME RECENTLY?",
+  "src": "p71c4"
+ },
+ {
+  "id": "inner-circle-018",
+  "deck": "inner-circle",
+  "level": "L3",
+  "text": "WHAT ARE YOU PROUDEST OF ME FOR?",
+  "src": "p71c5"
+ },
+ {
+  "id": "inner-circle-019",
+  "deck": "inner-circle",
+  "level": "L3",
+  "text": "WHAT’S SOMETHING WE SHOULD CELEBRATE TOGETHER?",
+  "src": "p71c6"
+ },
+ {
+  "id": "inner-circle-020",
+  "deck": "inner-circle",
+  "level": "wildcard",
+  "text": "FINISH THE SENTENCE: THANK YOU FOR...",
+  "src": "p71c7"
+ },
+ {
+  "id": "own-it-001",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT BLAME HAVE YOU BEEN PLACING ON SOMEONE ELSE THAT YOU CAN TAKE SOME ACCOUNTABILITY FOR?",
+  "src": "p73c0"
+ },
+ {
+  "id": "own-it-002",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT HAS BROUGHT YOU THE MOST UNEXPECTED JOY RECENTLY?",
+  "src": "p73c1"
+ },
+ {
+  "id": "own-it-003",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT HAS YOUR HEART BEEN TELLING YOU THAT YOU’VE BEEN IGNORING?",
+  "src": "p73c2"
+ },
+ {
+  "id": "own-it-004",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT ACT OF KINDNESS FROM A STRANGER WILL YOU NEVER FORGET?",
+  "src": "p73c3"
+ },
+ {
+  "id": "own-it-005",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT PART(S) OF YOURSELF HAVE YOU BEEN MINIMIZING THAT YOU’RE READY TO FINALLY OWN?",
+  "src": "p73c4"
+ },
+ {
+  "id": "own-it-006",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHO FROM YOUR PAST WOULD YOU WANT TO REUNITE WITH? WHAT WOULD YOU ASK THEM?",
+  "src": "p73c5"
+ },
+ {
+  "id": "own-it-007",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT HAVE YOU NOT FORGIVEN THAT HURTS THE MOST?",
+  "src": "p73c6"
+ },
+ {
+  "id": "own-it-008",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT DO YOU WISH YOU HAD THE COURAGE TO DO? TO SAY?",
+  "src": "p73c7"
+ },
+ {
+  "id": "own-it-009",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHEN WAS THE LAST TIME YOU FELT COMPLETE ZEN? WHO WERE YOU WITH? WHERE WERE YOU? WHAT WERE YOU DOING?",
+  "src": "p75c0"
+ },
+ {
+  "id": "own-it-010",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT HAVE YOU ENVIED IN THE PAST THAT YOU CAN LAUGH AT NOW?",
+  "src": "p75c1"
+ },
+ {
+  "id": "own-it-011",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT AREA OF YOUR LIFE HAVE YOU MADE THE MOST PROGRESS IN RECENTLY? GET SPECIFIC. TAKE A MOMENT TO CONGRATULATE YOURSELF.",
+  "src": "p75c2"
+ },
+ {
+  "id": "own-it-012",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT IS YOUR X-FACTOR? PERMISSION TO BRAG.",
+  "src": "p75c3"
+ },
+ {
+  "id": "own-it-013",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHO IN YOUR LIFE DO YOU WANT TO BUILD A DEEPER RELATIONSHIP WITH?",
+  "src": "p75c4"
+ },
+ {
+  "id": "own-it-014",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT LESSON IN LOVE TOOK YOU THE LONGEST TO LEARN?",
+  "src": "p75c5"
+ },
+ {
+  "id": "own-it-015",
+  "deck": "own-it",
+  "level": "none",
+  "text": "HOW WOULD YOU DESCRIBE YOUR RELATIONSHIP WITH YOURSELF IN ONE WORD?",
+  "src": "p75c6"
+ },
+ {
+  "id": "own-it-016",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHO DO YOU FEEL MISUNDERSTOOD BY? WHAT DO YOU WISH THEY WOULD COME TO UNDERSTAND?",
+  "src": "p75c7"
+ },
+ {
+  "id": "own-it-017",
+  "deck": "own-it",
+  "level": "wildcard",
+  "text": "SET AN INTENTION FOR TODAY, THIS MONTH, AND THIS YEAR. WRITE IT OUT.",
+  "src": "p77c0"
+ },
+ {
+  "id": "own-it-018",
+  "deck": "own-it",
+  "level": "wildcard",
+  "text": "SPEND AT LEAST 5 MINUTES IN NATURE TODAY. BE STILL AND OBSERVE. WHAT DID YOU NOTICE?",
+  "src": "p77c1"
+ },
+ {
+  "id": "own-it-019",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT STILL FEELS VULNERABLE IN YOUR LIFE? WHAT DOES OWNING IT LOOK LIKE FOR YOU?",
+  "src": "p77c2"
+ },
+ {
+  "id": "own-it-020",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHO IS A WOMAN IN YOUR LIFE THAT INSPIRES YOU TO BE A BETTER PERSON? WHY DOES SHE COME TO MIND? (SEND HER A THANK YOU)",
+  "src": "p77c3"
+ },
+ {
+  "id": "own-it-021",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT HAVE YOU BECOME NEWLY AWARE OF WITHIN YOURSELF RECENTLY?",
+  "src": "p77c4"
+ },
+ {
+  "id": "own-it-022",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT’S THE HARDEST TRUTH YOU’VE HAD TO OWN THIS PAST YEAR? WHAT HAS OWNING IT TAUGHT YOU?",
+  "src": "p77c5"
+ },
+ {
+  "id": "own-it-023",
+  "deck": "own-it",
+  "level": "none",
+  "text": "HOW HAS YOUR DEFINITION OF SUCCESS EVOLVED OVER TIME? WHAT IS YOUR DEFINITION OF IT TODAY?",
+  "src": "p77c6"
+ },
+ {
+  "id": "own-it-024",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT DOOR ARE YOU MOST GRATEFUL FOR CLOSING THAT FELT LIKE THE END OF THE WORLD AT THE TIME? WHAT DID IT OPEN FOR YOU?",
+  "src": "p77c7"
+ },
+ {
+  "id": "own-it-025",
+  "deck": "own-it",
+  "level": "wildcard",
+  "text": "WRITE DOWN 3 THINGS YOU’RE MOST GRATEFUL FOR IN THIS PRESENT MOMENT. BIG OR SMALL.",
+  "src": "p79c0"
+ },
+ {
+  "id": "breakup-001",
+  "deck": "breakup",
+  "level": "reminder",
+  "text": "BREAKUPS SKEW YOUR MEMORY. YOUR EX WAS NOT PERFECT. YOU WILL FEEL BETTER.",
+  "src": "p79c1"
+ },
+ {
+  "id": "breakup-002",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT’S THE BEST LESSON AN EX HAS EVER TAUGHT YOU?",
+  "src": "p79c2"
+ },
+ {
+  "id": "breakup-003",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT ADVICE WOULD YOU GIVE A FRIEND OR LOVED ONE GOING THROUGH A SIMILAR SITUATION AS YOU?",
+  "src": "p79c3"
+ },
+ {
+  "id": "own-it-026",
+  "deck": "own-it",
+  "level": "none",
+  "text": "WHAT QUESTION HAVE YOU AVOIDED ASKING SOMEONE? WHAT QUESTION HAVE YOU AVOIDED ASKING YOURSELF?",
+  "src": "p79c4"
+ },
+ {
+  "id": "breakup-004",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT WAS THE BIGGEST TURNING POINT IN YOUR DATING LIFE?",
+  "src": "p79c5"
+ },
+ {
+  "id": "breakup-005",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT WERE YOU OVER-RATIONALIZING THROUGHOUT YOUR LAST RELATIONSHIP, IF ANYTHING?",
+  "src": "p79c6"
+ },
+ {
+  "id": "breakup-006",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT CAN YOU DO FOR YOURSELF TODAY, EVEN IF YOU DON’T ENJOY IT, TO MAKE FUTURE YOU HAPPY?",
+  "src": "p79c7"
+ },
+ {
+  "id": "breakup-007",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT CAN YOU BE DOING NOW WITH ALL THE ENERGY YOU WERE PUTTING INTO THEM?",
+  "src": "p81c0"
+ },
+ {
+  "id": "breakup-008",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT DO YOU WANT TO RECEIVE FROM A FUTURE RELATIONSHIP? WHAT DO YOU WANT TO GIVE?",
+  "src": "p81c1"
+ },
+ {
+  "id": "breakup-009",
+  "deck": "breakup",
+  "level": "wildcard",
+  "text": "DRAW HOW YOUR HEART FEELS TODAY.",
+  "src": "p81c2"
+ },
+ {
+  "id": "breakup-010",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WERE THERE ANY PATTERNS IN YOUR PREVIOUS RELATIONSHIP THAT YOU’RE NEWLY AWARE OF? IF SO, WHAT WERE THEY?",
+  "src": "p81c3"
+ },
+ {
+  "id": "breakup-011",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT STORY ABOUT LOVE HAVE YOU BEEN TELLING YOURSELF THAT NO LONGER SERVES YOU? HOW WOULD YOU LIKE TO CHANGE THAT STORY?",
+  "src": "p81c4"
+ },
+ {
+  "id": "breakup-012",
+  "deck": "breakup",
+  "level": "wildcard",
+  "text": "WRITE 3 THINGS YOU WOULDN’T CHANGE ABOUT THIS CURRENT MOMENT.",
+  "src": "p81c5"
+ },
+ {
+  "id": "breakup-013",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT WOULD FEEL BEST TO FULLY ACCEPT IN THIS CURRENT MOMENT?",
+  "src": "p81c6"
+ },
+ {
+  "id": "breakup-014",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WOULD YOU ENCOURAGE YOUR FUTURE CHILD TO BE IN A RELATIONSHIP LIKE YOUR LAST? WHY OR WHY NOT?",
+  "src": "p81c7"
+ },
+ {
+  "id": "breakup-015",
+  "deck": "breakup",
+  "level": "none",
+  "text": "DID YOU LIKE YOUR EX AS A PERSON? OR WERE YOU JUST IN LOVE? EXPLAIN.",
+  "src": "p83c0"
+ },
+ {
+  "id": "breakup-016",
+  "deck": "breakup",
+  "level": "none",
+  "text": "DO YOU WANT CLOSURE OR JUST AN EXCUSE TO TALK TO THEM? EXPLAIN.",
+  "src": "p83c2"
+ },
+ {
+  "id": "breakup-017",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT HAVE ALL YOUR PREVIOUS RELATIONSHIPS HAD IN COMMON THAT YOU’D LIKE TO AVOID MOVING FORWARD, IF ANYTHING.",
+  "src": "p83c3"
+ },
+ {
+  "id": "breakup-018",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WERE YOU MORE ATTRACTED TO THEIR POTENTIAL OR WHO THEY REALLY WERE? EXPLAIN.",
+  "src": "p83c4"
+ },
+ {
+  "id": "breakup-019",
+  "deck": "breakup",
+  "level": "wildcard",
+  "text": "WRITE 3 THINGS YOU ABOUT YOUR LAST RELATIONSHIP THAT YOU WILL NO LONGER ACCEPT MOVING FORWARD.",
+  "src": "p83c5"
+ },
+ {
+  "id": "breakup-020",
+  "deck": "breakup",
+  "level": "none",
+  "text": "HOW CAN YOU SHOW UP FOR YOURSELF WHEN NO ONE ELSE CAN?",
+  "src": "p83c6"
+ },
+ {
+  "id": "breakup-021",
+  "deck": "breakup",
+  "level": "reminder",
+  "text": "DON’T LET YOUR LONELINESS TAKE YOU BACK TO PEOPLE WHO REPEATEDLY HURT YOU.",
+  "src": "p83c7"
+ },
+ {
+  "id": "breakup-022",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT IS YOUR HEART TELLING YOU? WHAT IS YOUR MIND TELLING YOU?",
+  "src": "p85c0"
+ },
+ {
+  "id": "breakup-023",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT HAS HELPED YOU HEAL FROM A HEARTBREAK IN THE PAST, BESIDES TIME AND MEETING SOMEONE NEW?",
+  "src": "p85c1"
+ },
+ {
+  "id": "breakup-024",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT PARTS OF YOURSELF DO YOU NEED TO BREAK UP WITH?",
+  "src": "p85c2"
+ },
+ {
+  "id": "breakup-025",
+  "deck": "breakup",
+  "level": "none",
+  "text": "HOW DID YOU GET OVER YOUR FIRST LOVE?",
+  "src": "p85c3"
+ },
+ {
+  "id": "breakup-026",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT ARE 3 THINGS YOU CAN APPRECIATE ABOUT BEING SINGLE (EVEN IF IT FEELS HARD)?",
+  "src": "p85c4"
+ },
+ {
+  "id": "breakup-027",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT DID YOUR LAST RELATIONSHIP MAKE YOU APPRECIATE ABOUT YOURSELF?",
+  "src": "p85c5"
+ },
+ {
+  "id": "breakup-028",
+  "deck": "breakup",
+  "level": "wildcard",
+  "text": "WRITE DOWN 3 THINGS YOU LOVE ABOUT YOURSELF THAT AREN’T PHYSICAL.",
+  "src": "p85c6"
+ },
+ {
+  "id": "breakup-029",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT VALIDATION ARE YOU SEEKING FROM A PARTNER? HOW CAN YOU GIVE IT TO YOURSELF?",
+  "src": "p85c7"
+ },
+ {
+  "id": "breakup-030",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT FEELS UNIQUE ABOUT THIS HEARTBREAK, IF ANYTHING?",
+  "src": "p87c0"
+ },
+ {
+  "id": "breakup-031",
+  "deck": "breakup",
+  "level": "none",
+  "text": "PICTURE YOU’RE TALKING TO YOUR EX. FINISH THE SENTENCE: YOU HURT ME, BUT THANK YOU FOR...",
+  "src": "p87c1"
+ },
+ {
+  "id": "breakup-032",
+  "deck": "breakup",
+  "level": "none",
+  "text": "HOW HAS YOUR LAST RELATIONSHIP PREPARED YOU FOR YOUR NEXT ONE?",
+  "src": "p87c2"
+ },
+ {
+  "id": "breakup-033",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT PART OF YOUR LAST RELATIONSHIP WORKED? WHAT PART OF IT HURT?",
+  "src": "p87c3"
+ },
+ {
+  "id": "breakup-034",
+  "deck": "breakup",
+  "level": "none",
+  "text": "DID THEIR LOVE LEAVE YOU FEELING GOOD MOST OF THE TIME? IF NOT, WHAT WAS THE DOMINANT FEELING THEY LEFT YOU WITH?",
+  "src": "p87c4"
+ },
+ {
+  "id": "breakup-035",
+  "deck": "breakup",
+  "level": "none",
+  "text": "ARE YOU TALKING TO OTHER PEOPLE CURRENTLY? IF SO, ARE YOU SEEKING A REAL CONNECTION OR NEEDING A DISTRACTION?",
+  "src": "p87c5"
+ },
+ {
+  "id": "breakup-036",
+  "deck": "breakup",
+  "level": "reminder",
+  "text": "YOUR LOVE LIFE IS ONE AREA OF YOUR LIFE. DON’T FORGET TO NURTURE THE REST.",
+  "src": "p87c6"
+ },
+ {
+  "id": "breakup-037",
+  "deck": "breakup",
+  "level": "none",
+  "text": "DO YOU HAVE A LIMITING BELIEF ABOUT LOVE? WHERE DO YOU THINK IT STEMS FROM? HOW CAN YOU CHALLENGE THIS BELIEF?",
+  "src": "p87c7"
+ },
+ {
+  "id": "breakup-038",
+  "deck": "breakup",
+  "level": "none",
+  "text": "SIGNIFICANT OTHER ASIDE, WHEN YOU VISUALIZE COMING HOME TO A LIFE YOU LOVE, WHAT DOES THAT LOOK LIKE?",
+  "src": "p89c0"
+ },
+ {
+  "id": "breakup-039",
+  "deck": "breakup",
+  "level": "none",
+  "text": "IF YOU COULD ASK YOUR EX ONE THING, AND GET A COMPLETELY HONEST ANSWER, WHAT WOULD IT BE?",
+  "src": "p89c1"
+ },
+ {
+  "id": "breakup-040",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WERE YOU LYING TO YOURSELF ABOUT ANYTHING DURING YOUR LAST RELATIONSHIP? IF SO, WHAT WAS IT?",
+  "src": "p89c2"
+ },
+ {
+  "id": "breakup-041",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHO IN YOUR LIFE HAS BEEN TREATING YOU RIGHT LATELY? LET THEM KNOW BEFORE MOVING ON TO THE NEXT CARD. (EXES NOT INCLUDED)",
+  "src": "p89c3"
+ },
+ {
+  "id": "breakup-042",
+  "deck": "breakup",
+  "level": "none",
+  "text": "IMAGINE YOU’RE TALKING TO YOUR EX. FINISH THE SENTENCE: I’M SORRY FOR...",
+  "src": "p89c4"
+ },
+ {
+  "id": "breakup-043",
+  "deck": "breakup",
+  "level": "none",
+  "text": "DID YOUR LAST RELATIONSHIP REVEAL SOME TOXIC TRAITS IN YOURSELF THAT YOU’D LIKE TO WORK ON? IF SO, WHAT ARE THEY?",
+  "src": "p89c5"
+ },
+ {
+  "id": "breakup-044",
+  "deck": "breakup",
+  "level": "wildcard",
+  "text": "WRITE DOWN 3 THINGS YOU LOVE ABOUT YOURSELF PHYSICALLY.",
+  "src": "p89c6"
+ },
+ {
+  "id": "breakup-045",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT TITLE WOULD YOU GIVE THIS CHAPTER OF YOUR HEALING PROCESS?",
+  "src": "p89c7"
+ },
+ {
+  "id": "breakup-046",
+  "deck": "breakup",
+  "level": "none",
+  "text": "WHAT’S YOUR EX’S NAME AND ONE THING ABOUT THEM?",
+  "src": "p91c0"
+ },
+ {
+  "id": "breakup-047",
+  "deck": "breakup",
+  "level": "wildcard",
+  "text": "SET A TIME THIS WEEK TO DO SOMETHING YOU LOVE AND LIMIT ANY DISTRACTIONS.",
+  "src": "p91c1"
+ },
+ {
+  "id": "breakup-048",
+  "deck": "breakup",
+  "level": "final",
+  "text": "WRITE A FINAL NOTE TO YOUR EX THAT THEY’LL NEVER SEE. GET IT ALL OFF YOUR CHEST. TEAR WHEN YOU FEEL READY.",
+  "src": "p91c2"
+ },
+ {
+  "id": "healing-001",
+  "deck": "healing",
+  "level": "wildcard",
+  "text": "DELETE ALL OF YOUR SOCIAL MEDIA APPS FOR A DAY. JOURNAL ABOUT HOW YOU FELT AFTER.",
+  "src": "p91c3"
+ },
+ {
+  "id": "breakup-049",
+  "deck": "breakup",
+  "level": "none",
+  "text": "AFTER YOUR MOST RECENT BREAKUP, WHAT SONG DID YOU PLAY ON REPEAT?",
+  "src": "p91c4"
+ },
+ {
+  "id": "breakup-050",
+  "deck": "breakup",
+  "level": "wildcard",
+  "text": "WRITE A NOTE TO YOUR FUTURE SELF. FOLD AND PLACE SOMEWHERE SAFE. SET A REMINDER TO OPEN 3 MONTHS FROM TODAY.",
+  "src": "p91c5"
+ },
+ {
+  "id": "breakup-051",
+  "deck": "breakup",
+  "level": "wildcard",
+  "text": "WRITE A STAND UP ROUTINE ABOUT YOUR LAST RELATIONSHIP (1 MINUTE). READ IT OUT LOUD.",
+  "src": "p91c6"
+ },
+ {
+  "id": "healing-002",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT PIECE OF ADVICE HAS HELPED YOUR MENTAL HEALTH THE MOST?",
+  "src": "p91c7"
+ },
+ {
+  "id": "healing-003",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT TITLE WOULD YOU GIVE THIS CHAPTER OF YOUR HEALING JOURNEY?",
+  "src": "p93c0"
+ },
+ {
+  "id": "healing-004",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHO’S BEEN GOOD FOR YOUR MENTAL HEALTH? SEND THEM A PICTURE OF THIS CARD AS A THANK YOU.",
+  "src": "p93c1"
+ },
+ {
+  "id": "healing-005",
+  "deck": "healing",
+  "level": "wildcard",
+  "text": "ADMIT SOMETHING (TO YOURSELF).",
+  "src": "p93c2"
+ },
+ {
+  "id": "healing-006",
+  "deck": "healing",
+  "level": "none",
+  "text": "HOW HAVE YOU NEGLECTED YOUR MENTAL HEALTH RECENTLY? WHAT’S ONE SMALL WAY YOU CAN MAKE IT UP TO YOURSELF?",
+  "src": "p93c3"
+ },
+ {
+  "id": "healing-007",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT DOES SELF-CARE LOOK LIKE FOR YOU? GET SPECIFIC. CREATE THAT DAY FOR YOURSELF.",
+  "src": "p93c4"
+ },
+ {
+  "id": "healing-008",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT ARE YOU CURRENTLY HEALING FROM THAT OTHERS DON’T SEE?",
+  "src": "p93c5"
+ },
+ {
+  "id": "healing-009",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT HURT YOUR YOUNGER SELF THAT YOU NEVER FULLY HEALED FROM? WHAT WOULD YOU SAY TO YOUR YOUNGER SELF TODAY?",
+  "src": "p93c6"
+ },
+ {
+  "id": "healing-010",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT HAVE YOU BEEN AVOIDING THAT DESERVES YOUR ATTENTION? WHY HAVE YOU BEEN AVOIDING IT?",
+  "src": "p93c7"
+ },
+ {
+  "id": "healing-011",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT DOES PRIORITIZING YOUR MENTAL HEALTH LOOK LIKE IN THIS CHAPTER OF YOUR LIFE?",
+  "src": "p95c0"
+ },
+ {
+  "id": "healing-012",
+  "deck": "healing",
+  "level": "wildcard",
+  "text": "WHAT WOULD FEEL BEST TO LET GO OF TODAY? WRITE IT OUT AND RIP IT UP.",
+  "src": "p95c1"
+ },
+ {
+  "id": "healing-013",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT’S ONE THING (BIG OR SMALL) YOU’RE MOST LOOKING FORWARD TO? WHAT ABOUT IT EXCITES YOU MOST?",
+  "src": "p95c2"
+ },
+ {
+  "id": "healing-014",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT HAVE I BEEN SENSITIVE TO LATELY?",
+  "src": "p95c3"
+ },
+ {
+  "id": "healing-015",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHEN WAS THE LAST TIME YOU DIDN’T ASK FOR HELP, BUT REALLY NEEDED IT?",
+  "src": "p95c4"
+ },
+ {
+  "id": "healing-016",
+  "deck": "healing",
+  "level": "wildcard",
+  "text": "WHAT PROMISE DO YOU WANT TO KEEP TO YOURSELF THIS YEAR? WRITE IT OUT AND DATE IT.",
+  "src": "p95c5"
+ },
+ {
+  "id": "healing-017",
+  "deck": "healing",
+  "level": "none",
+  "text": "I KNOW MY ANXIETY IS SETTING IN WHEN...",
+  "src": "p95c6"
+ },
+ {
+  "id": "healing-018",
+  "deck": "healing",
+  "level": "none",
+  "text": "HOW WOULD I DESCRIBE MY RELATIONSHIP WITH MYSELF IN ONE WORD?",
+  "src": "p95c7"
+ },
+ {
+  "id": "healing-019",
+  "deck": "healing",
+  "level": "wildcard",
+  "text": "GET SOMETHING OFF YOUR CHEST. WRITE IT OUT (1 MINUTE).",
+  "src": "p97c0"
+ },
+ {
+  "id": "healing-020",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT’S BEEN THE BEST THING FOR YOUR MENTAL HEALTH LATELY?",
+  "src": "p97c1"
+ },
+ {
+  "id": "healing-021",
+  "deck": "healing",
+  "level": "reminder",
+  "text": "YOU DON’T HAVE TO HAVE IT ALL FIGURED OUT RIGHT NOW. SLEEP ON IT.",
+  "src": "p97c2"
+ },
+ {
+  "id": "healing-022",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHO DO I FEEL MOST MYSELF AROUND? WHY?",
+  "src": "p97c3"
+ },
+ {
+  "id": "healing-023",
+  "deck": "healing",
+  "level": "none",
+  "text": "FINISH THE SENTENCE: I NEED HELP WITH...",
+  "src": "p97c4"
+ },
+ {
+  "id": "healing-024",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT’S BEEN CAUSING YOU UNNECESSARY STRESS? WHAT WOULD HELP ALLEVIATE THAT FOR YOU?",
+  "src": "p97c5"
+ },
+ {
+  "id": "healing-025",
+  "deck": "healing",
+  "level": "none",
+  "text": "HOW CAN YOU CONTRIBUTE TO SOMEONE ELSE’S HAPPINESS TODAY? DO THAT THING, BIG OR SMALL.",
+  "src": "p97c6"
+ },
+ {
+  "id": "healing-026",
+  "deck": "healing",
+  "level": "wildcard",
+  "text": "WHAT IS ONE TRUTH I’VE RECENTLY COME TO TERMS WITH? (WRITE IT OUT.)",
+  "src": "p97c7"
+ },
+ {
+  "id": "healing-027",
+  "deck": "healing",
+  "level": "none",
+  "text": "FINISH THE SENTENCE: I’M WORKING ON ACCEPTING...",
+  "src": "p99c0"
+ },
+ {
+  "id": "healing-028",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT OR WHO DO YOU NEED TO SET A HEALTHY BOUNDARY WITH?",
+  "src": "p99c1"
+ },
+ {
+  "id": "healing-029",
+  "deck": "healing",
+  "level": "none",
+  "text": "TODAY I’M STRUGGLING WITH...",
+  "src": "p99c2"
+ },
+ {
+  "id": "healing-030",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT DO YOU UNDERSTAND NOW ABOUT THE HEALING PROCESS THAT YOU DIDN’T BEFORE?",
+  "src": "p99c3"
+ },
+ {
+  "id": "healing-031",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT’S SOMETHING YOU CAN SAY “NO” TO THIS WEEK TO PRIORITIZE YOUR MENTAL HEALTH? WHAT’S SOMETHING YOU CAN SAY “YES” TO?",
+  "src": "p99c4"
+ },
+ {
+  "id": "healing-032",
+  "deck": "healing",
+  "level": "wildcard",
+  "text": "WRITE OUT AN INTRUSIVE THOUGHT. CROSS IT OUT. REPLACE WITH A POSITIVE AFFIMARTION.",
+  "src": "p99c5"
+ },
+ {
+  "id": "healing-033",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT SMALL STEP CAN YOU TAKE TOWARDS YOUR HEALING TODAY?",
+  "src": "p99c6"
+ },
+ {
+  "id": "healing-034",
+  "deck": "healing",
+  "level": "reminder",
+  "text": "IF YOU’RE TRYING NOT TO THINK ABOUT IT, IT’S PROBABLY TIME TO HEAL IT.",
+  "src": "p99c7"
+ },
+ {
+  "id": "healing-035",
+  "deck": "healing",
+  "level": "wildcard",
+  "text": "TAKE 3 DEEP BREATHS BEFORE FLIPPING TO THE NEXT CARD. HOLD FOR 2 SECONDS BETWEEN EACH BREATH.",
+  "src": "p101c0"
+ },
+ {
+  "id": "healing-036",
+  "deck": "healing",
+  "level": "wildcard",
+  "text": "ILLUSTRATE HOW YOUR MIND FEELS TODAY (30 SECONDS).",
+  "src": "p101c1"
+ },
+ {
+  "id": "healing-037",
+  "deck": "healing",
+  "level": "none",
+  "text": "HOW DO YOU DEFINE HAPPINESS?",
+  "src": "p101c2"
+ },
+ {
+  "id": "healing-038",
+  "deck": "healing",
+  "level": "none",
+  "text": "FINISH THE SENTENCE: I WANT TO GIVE MYSELF PERMISSION TO FEEL____. WHAT’S GETTING IN THE WAY OF THAT?",
+  "src": "p101c3"
+ },
+ {
+  "id": "healing-039",
+  "deck": "healing",
+  "level": "wildcard",
+  "text": "WRITE DOWN THE NAMES OF EVERYONE YOU FEEL UNCONDITIONALLY LOVED BY. MAKE MORE TIME FOR THESE PEOPLE (EVEN IF IT’S YOURSELF).",
+  "src": "p101c4"
+ },
+ {
+  "id": "healing-040",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHEN WAS THE FIRST MENTAL HEALTH SCARE YOU REMEMBER HAVING? WHAT STANDS OUT TO YOU ABOUT IT?",
+  "src": "p101c5"
+ },
+ {
+  "id": "healing-041",
+  "deck": "healing",
+  "level": "wildcard",
+  "text": "JUMP UP AND DOWN AS IF YOU’RE CELEBRATING THE BEST NEWS OF YOUR LIFE FOR 30 SECONDS BEFORE FLIPPING TO THE NEXT CARD. NO, SERIOUSLY, DO IT.",
+  "src": "p101c6"
+ },
+ {
+  "id": "healing-042",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT IS YOUR BODY TELLING YOU TODAY?",
+  "src": "p101c7"
+ },
+ {
+  "id": "healing-043",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHEN WAS THE LAST TIME YOU HEALED FROM SOMETHING YOU WEREN’T SURE YOU COULD MOVE PAST?",
+  "src": "p103c0"
+ },
+ {
+  "id": "healing-044",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT DO YOU NEED RIGHT NOW MORE THAN ANYTHING?",
+  "src": "p103c1"
+ },
+ {
+  "id": "healing-045",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT SONG MAKES YOU HAPPY? PLAY IT IN THE BACKGROUND WHILE YOU ANSWER THE NEXT FEW CARDS.",
+  "src": "p103c2"
+ },
+ {
+  "id": "healing-046",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT’S BEEN DRAINING YOUR ENERGY LATELY? WHAT’S BEEN GIVING YOU ENERGY?",
+  "src": "p103c3"
+ },
+ {
+  "id": "healing-047",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT EMOTION KEEPS COMING UP FOR YOU LATELY? WHY DO YOU THINK THAT IS?",
+  "src": "p103c4"
+ },
+ {
+  "id": "healing-048",
+  "deck": "healing",
+  "level": "wildcard",
+  "text": "STRETCH FOR 30 SECONDS BEFORE FLIPPING TO THE NEXT CARD.",
+  "src": "p103c5"
+ },
+ {
+  "id": "healing-049",
+  "deck": "healing",
+  "level": "reminder",
+  "text": "I’M PROUD OF THE PROGRESS YOU’RE MAKING. NO MATTER HOW SMALL.",
+  "src": "p103c6"
+ },
+ {
+  "id": "healing-050",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT’S BEEN THE WORST THING FOR YOUR MENTAL HEALTH LATELY (THAT’S WITHIN YOUR CONTROL TO CHANGE)?",
+  "src": "p103c7"
+ },
+ {
+  "id": "healing-051",
+  "deck": "healing",
+  "level": "none",
+  "text": "HOW HAS YOUR MENTAL HEALTH AFFECTED YOUR ROMANTIC RELATIONSHIPS, IF AT ALL?",
+  "src": "p105c0"
+ },
+ {
+  "id": "healing-052",
+  "deck": "healing",
+  "level": "none",
+  "text": "WHAT’S A BOUNDARY YOU CAN SET WITH YOURSELF TODAY THAT WILL BENEFIT FUTURE YOU?",
+  "src": "p105c1"
+ },
+ {
+  "id": "forgiveness-001",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHO IN YOUR LIFE GIVES YOU THE WORST APOLOGIES? WHY DO THEY COME TO MIND?",
+  "src": "p105c2"
+ },
+ {
+  "id": "forgiveness-002",
+  "deck": "forgiveness",
+  "level": "reminder",
+  "text": "HAVE MORE EMPATHY. FOR YOURSELF TOO.",
+  "src": "p105c3"
+ },
+ {
+  "id": "healing-053",
+  "deck": "healing",
+  "level": "reminder",
+  "text": "PAY ATTENTION TO WHO YOU’RE WITH WHEN YOU FEEL YOUR BEST.",
+  "src": "p105c4"
+ },
+ {
+  "id": "healing-054",
+  "deck": "healing",
+  "level": "wildcard",
+  "text": "WRITE OUT 3 THINGS THAT MADE YOU SMILE TODAY.",
+  "src": "p105c5"
+ },
+ {
+  "id": "forgiveness-003",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHEN WAS THE LAST TIME YOU GAVE AN INGENUINE APOLOGY? WHY?",
+  "src": "p105c6"
+ },
+ {
+  "id": "forgiveness-004",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "FINISH THE SENTENCE: I’M WORKING ON ACCEPTING...",
+  "src": "p105c7"
+ },
+ {
+  "id": "forgiveness-005",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "HAVE YOU BEEN CARRYING ANY RESENTMENT RECENTLY? WHAT’S ONE SMALL STEP YOU CAN TAKE TOWARDS LETTING IT GO?",
+  "src": "p107c0"
+ },
+ {
+  "id": "forgiveness-006",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHAT DOES AN IDEAL APOLOGY LOOK LIKE TO YOU?",
+  "src": "p107c1"
+ },
+ {
+  "id": "forgiveness-007",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHAT DID YOU HAVE TO UNLEARN ABOUT FORGIVENESS, IF ANYTHING?",
+  "src": "p107c2"
+ },
+ {
+  "id": "forgiveness-008",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "FINISH THE SENTENCE: I’M STILL WORKING ON____. AND THAT’S OKAY.",
+  "src": "p107c3"
+ },
+ {
+  "id": "forgiveness-009",
+  "deck": "forgiveness",
+  "level": "reminder",
+  "text": "AN APOLOGY ISN’T THE TIME TO DEFEND YOURSELF.",
+  "src": "p107c4"
+ },
+ {
+  "id": "forgiveness-010",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHAT MISTAKE ARE YOU MOST GRATEFUL FOR MAKING?",
+  "src": "p107c5"
+ },
+ {
+  "id": "forgiveness-011",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHO’S THE MOST UNDERSTANDING PERSON YOU KNOW?",
+  "src": "p107c6"
+ },
+ {
+  "id": "forgiveness-012",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHAT TITLE WOULD YOU GIVE THIS CHAPTER OF YOUR FORGIVENESS JOURNEY?",
+  "src": "p107c7"
+ },
+ {
+  "id": "forgiveness-013",
+  "deck": "forgiveness",
+  "level": "wildcard",
+  "text": "LOOK IN THE MIRROR. FINISH THE SENTENCE: I FORGIVE YOU FOR ____.",
+  "src": "p109c0"
+ },
+ {
+  "id": "forgiveness-014",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHO DO YOU WISH YOU COULD RECEIVE AN APOLOGY FROM, IF ANYBODY? WHAT DO YOU WISH THEY WOULD SAY?",
+  "src": "p109c1"
+ },
+ {
+  "id": "forgiveness-015",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "IS THERE SOMEONE YOU’VE FORGIVEN WHO DOESN’T KNOW IT YET? IF SO, WHAT’S STOPPING YOU?",
+  "src": "p109c2"
+ },
+ {
+  "id": "forgiveness-016",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHAT DO YOU NEED TO FORGIVE YOURSELF FOR TODAY?",
+  "src": "p109c3"
+ },
+ {
+  "id": "forgiveness-017",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHAT HAVE YOU LEARNED ABOUT FORGIVENESS AS YOU’VE GOTTEN OLDER?",
+  "src": "p109c4"
+ },
+ {
+  "id": "forgiveness-018",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "FINISH THE SENTENCE: THE HARDEST PART ABOUT FORGIVENESS IS...",
+  "src": "p109c5"
+ },
+ {
+  "id": "forgiveness-019",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHAT HAVE YOU BEEN HARDEST ON YOURSELF FOR RECENTLY? WHAT WOULD YOU SAY TO A FRIEND GOING THROUGH A SIMILAR SITUATION?",
+  "src": "p109c6"
+ },
+ {
+  "id": "forgiveness-020",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHAT DOES A BAD APOLOGY LOOK LIKE?",
+  "src": "p109c7"
+ },
+ {
+  "id": "forgiveness-021",
+  "deck": "forgiveness",
+  "level": "reminder",
+  "text": "REPLACE “THAT WAS SO STUPID OF ME” WITH “THAT WAS SO HUMAN OF ME.”",
+  "src": "p111c1"
+ },
+ {
+  "id": "forgiveness-022",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "HAS AN APOLOGY EVER STUCK WITH YOU TILL THIS DAY, OR LACK THEREOF? IF SO, WHY?",
+  "src": "p111c2"
+ },
+ {
+  "id": "forgiveness-023",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHO HAVE YOU HAD TO FORGIVE TOO MANY TIMES?",
+  "src": "p111c4"
+ },
+ {
+  "id": "forgiveness-024",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHAT DOES RESENTMENT FEEL LIKE IN YOUR BODY?",
+  "src": "p111c5"
+ },
+ {
+  "id": "forgiveness-025",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHO DO YOU WISH YOU COULD APOLOGIZE TO? WHAT WOULD YOU SAY?",
+  "src": "p111c6"
+ },
+ {
+  "id": "forgiveness-026",
+  "deck": "forgiveness",
+  "level": "wildcard",
+  "text": "BEFORE APOLOGIZING ASK YOURSELF: WHAT AM I SAYING SORRY FOR? DO I MEAN IT? OR AM I ACTING SMALL FOR SOMEONE ELSE’S COMFORT?",
+  "src": "p113c0"
+ },
+ {
+  "id": "forgiveness-027",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "ARE YOU PUNISHING YOURSELF FOR ANYTHING RIGHT NOW? HOW CAN YOU SHOW EMPATHY FOR YOURSELF IN THIS MOMENT?",
+  "src": "p113c1"
+ },
+ {
+  "id": "forgiveness-028",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "HOW FORGIVING ARE YOU TOWARDS YOURSELF ON A SCALE OF 1-10? HOW CAN YOU INCREASE YOUR ANSWER BY 1 POINT?",
+  "src": "p113c2"
+ },
+ {
+  "id": "forgiveness-029",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHAT’S THE HARDEST THING YOU’VE HAD TO FORGIVE YOURSELF/SOMEONE ELSE FOR?",
+  "src": "p113c3"
+ },
+ {
+  "id": "forgiveness-030",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHEN WAS THE LAST TIME YOU WERE WRONG IN A SITUATION BUT DIDN’T ADMIT IT BECAUSE OF PRIDE?",
+  "src": "p113c4"
+ },
+ {
+  "id": "forgiveness-031",
+  "deck": "forgiveness",
+  "level": "reminder",
+  "text": "FORGIVE YOURSELF LIKE YOU DID YOUR EX SO MANY TIMES.",
+  "src": "p113c5"
+ },
+ {
+  "id": "forgiveness-032",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "IS THERE SOMETHING YOU HAVEN’T FORGIVEN YOUR PARENTS FOR? IF SO, WHAT COMES TO MIND?",
+  "src": "p113c6"
+ },
+ {
+  "id": "forgiveness-033",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHAT DID YOU BEAT YOURSELF UP OVER WHEN YOU WERE YOUNGER THAT YOU CAN HAVE MORE EMPATHY FOR NOW?",
+  "src": "p113c7"
+ },
+ {
+  "id": "forgiveness-034",
+  "deck": "forgiveness",
+  "level": "wildcard",
+  "text": "WHAT ARE YOU HOLDING ON TO THAT’S NO LONGER HOLDING ON TO YOU? WRITE IT DOWN AND RIP IT UP.",
+  "src": "p115c0"
+ },
+ {
+  "id": "forgiveness-035",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHO IS SOMEONE THAT HAS FORGIVEN YOU IN THE PAST, THAT YOU’RE GRATEFUL FOR TO THIS DAY?",
+  "src": "p115c1"
+ },
+ {
+  "id": "forgiveness-036",
+  "deck": "forgiveness",
+  "level": "wildcard",
+  "text": "WRITE OUT ONE MISTAKE YOU’VE MADE RECENTLY AND THE LESSON IT TAUGHT YOU.",
+  "src": "p115c2"
+ },
+ {
+  "id": "forgiveness-037",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHAT DO YOU KEEP HAVING TO APOLOGIZE FOR THAT’S WITHIN YOUR CONTROL TO CHANGE?",
+  "src": "p115c3"
+ },
+ {
+  "id": "forgiveness-038",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHAT DID YOUR CHILDHOOD TEACH YOU ABOUT FORGIVENESS? TOWARDS OTHERS? TOWARDS YOURSELF?",
+  "src": "p115c4"
+ },
+ {
+  "id": "forgiveness-039",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "HOW FORGIVING ARE YOU OF OTHER PEOPLE ON A SCALE 1-10? HOW CAN YOU INCREASE YOUR ANSWER BY 1 POINT?",
+  "src": "p115c5"
+ },
+ {
+  "id": "forgiveness-040",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "HOW DO YOU TREAT YOURSELF WHEN YOU’VE MADE A MISTAKE?",
+  "src": "p115c6"
+ },
+ {
+  "id": "forgiveness-041",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "FINISH THE SENTENCE: I’M TIRED OF APOLOGIZING FOR...",
+  "src": "p115c7"
+ },
+ {
+  "id": "forgiveness-042",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "IS THERE SOMEONE YOU OWE AN APOLOGY TO THAT PERHAPS YOU’VE OVERLOOKED?",
+  "src": "p117c0"
+ },
+ {
+  "id": "forgiveness-043",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "HOW DO YOU DEFINE FORGIVENESS?",
+  "src": "p117c1"
+ },
+ {
+  "id": "forgiveness-044",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHO TOOK YOU THE LONGEST TO FORGIVE? WHAT HELPED YOU GET THERE?",
+  "src": "p117c2"
+ },
+ {
+  "id": "forgiveness-045",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "FINISH THE SENTENCE: I KNOW I’VE FORGIVEN SOMEONE WHEN...",
+  "src": "p117c3"
+ },
+ {
+  "id": "forgiveness-046",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "IS THERE SOMEONE IN YOUR LIFE YOU’VE YET TO FORGIVE? IF SO, WHY?",
+  "src": "p117c4"
+ },
+ {
+  "id": "forgiveness-047",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHEN WAS THE LAST TIME YOU OWED SOMEONE AN APOLOGY BUT DIDN’T GIVE IT TO THEM? WHAT STOPPED YOU?",
+  "src": "p117c5"
+ },
+ {
+  "id": "forgiveness-048",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHEN WAS THE LAST TIME YOU FELT UNAPPRECIATED BY SOMEONE? GIVE YOURSELF THAT VALIDATION BEFORE FLIPPING TO THE NEXT CARD.",
+  "src": "p117c6"
+ },
+ {
+  "id": "forgiveness-049",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "IS THERE SOMETHING YOU HAVEN’T FORGIVEN YOUR EX FOR?",
+  "src": "p117c7"
+ },
+ {
+  "id": "forgiveness-050",
+  "deck": "forgiveness",
+  "level": "none",
+  "text": "WHO IN YOUR LIFE GIVES THE BEST APOLOGIES? WHY DO THEY COME TO MIND?",
+  "src": "p119c0"
+ },
+ {
+  "id": "quarantine-001",
+  "deck": "quarantine",
+  "level": "L1",
+  "text": "DO YOU THINK I’M MAINLY COOKING OR GETTING TAKE OUT?",
+  "src": "p119c1"
+ },
+ {
+  "id": "quarantine-002",
+  "deck": "quarantine",
+  "level": "L1",
+  "text": "WHAT TIME DO YOU THINK I USUALLY WAKE UP?",
+  "src": "p119c2"
+ },
+ {
+  "id": "quarantine-003",
+  "deck": "quarantine",
+  "level": "wildcard",
+  "text": "SHARE YOUR SCREEN TIME.",
+  "src": "p119c3"
+ },
+ {
+  "id": "quarantine-004",
+  "deck": "quarantine",
+  "level": "L1",
+  "text": "WHAT DO YOU THINK I’VE BEEN BINGE WATCHING LATELY?",
+  "src": "p119c4"
+ },
+ {
+  "id": "quarantine-005",
+  "deck": "quarantine",
+  "level": "L1",
+  "text": "WHAT DO YOU THINK IS MY GO TO SNACK?",
+  "src": "p119c5"
+ },
+ {
+  "id": "quarantine-006",
+  "deck": "quarantine",
+  "level": "L2",
+  "text": "WHAT ARE YOU MOST EXCITED FOR TODAY? BIG OR SMALL?",
+  "src": "p119c6"
+ },
+ {
+  "id": "quarantine-007",
+  "deck": "quarantine",
+  "level": "L2",
+  "text": "WHAT CAN YOU CREATE TODAY WITH EXACTLY WHAT YOU HAVE? BIG OR SMALL.",
+  "src": "p119c7"
+ },
+ {
+  "id": "quarantine-008",
+  "deck": "quarantine",
+  "level": "wildcard",
+  "text": "SHARE YOUR MOST PLAYED SONG AT THE MOMENT.",
+  "src": "p121c0"
+ },
+ {
+  "id": "quarantine-009",
+  "deck": "quarantine",
+  "level": "L2",
+  "text": "WHAT MOVIE DO YOU WISH YOU’D NEVER SEEN SO YOU CAN WATCH IT FOR THE FIRST TIME?",
+  "src": "p121c1"
+ },
+ {
+  "id": "quarantine-010",
+  "deck": "quarantine",
+  "level": "L2",
+  "text": "WHAT HAS BEEN THE HARDEST PART OF ALL THIS FOR YOU? PERMISSION TO VENT.",
+  "src": "p121c2"
+ },
+ {
+  "id": "quarantine-011",
+  "deck": "quarantine",
+  "level": "L3",
+  "text": "IF YOU MADE A PLAYLIST FOR ME, WHAT 3 SONGS WOULD BE ON IT?",
+  "src": "p121c3"
+ },
+ {
+  "id": "quarantine-012",
+  "deck": "quarantine",
+  "level": "L2",
+  "text": "WHAT WOULD FEEL BEST TO FULLY ACCEPT IN THIS CURRENT MOMENT?",
+  "src": "p121c4"
+ },
+ {
+  "id": "quarantine-013",
+  "deck": "quarantine",
+  "level": "L2",
+  "text": "WHAT CHANGE DO YOU WANT TO MAKE IN YOUR DAY TO DAY LIFE IF ANY?",
+  "src": "p121c5"
+ },
+ {
+  "id": "quarantine-014",
+  "deck": "quarantine",
+  "level": "L2",
+  "text": "WHAT’S BEEN THE KINDEST THING SOMEONE HAS DONE FOR YOU? WHAT’S BEEN THE KINDEST THING YOU’VE DONE FOR YOURSELF?",
+  "src": "p121c6"
+ },
+ {
+  "id": "quarantine-015",
+  "deck": "quarantine",
+  "level": "L3",
+  "text": "WHAT DO I NEED TO WATCH AS SOON AS I HAVE THE TIME?",
+  "src": "p121c7"
+ },
+ {
+  "id": "quarantine-016",
+  "deck": "quarantine",
+  "level": "wildcard",
+  "text": "WHO’S BEEN ON YOUR MIND LATELY? SEND THEM A TEXT LETTING THEM KNOW YOU’RE THINKING OF THEM.",
+  "src": "p123c0"
+ },
+ {
+  "id": "quarantine-017",
+  "deck": "quarantine",
+  "level": "L3",
+  "text": "HOW CAN I BEST BE THERE FOR YOU?",
+  "src": "p123c1"
+ },
+ {
+  "id": "race-privilege-001",
+  "deck": "race-privilege",
+  "level": "wildcard",
+  "text": "WRITE DOWN YOUR BIGGEST FEAR ENTERING THIS CONVERSATION ABOUT RACE (1 MINUTE). COMPARE.",
+  "src": "p123c2"
+ },
+ {
+  "id": "race-privilege-002",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "PERMISSION TO SOUND UNINFORMED: WHAT HAVE YOU ALWAYS WONDERED BUT FELT TOO AFRAID TO ASK ABOUT RACE/RACISM?",
+  "src": "p123c3"
+ },
+ {
+  "id": "race-privilege-003",
+  "deck": "race-privilege",
+  "level": "L1",
+  "text": "WHAT PRIVILEGES DO YOU THINK I HAVE? EXPLAIN.",
+  "src": "p123c5"
+ },
+ {
+  "id": "race-privilege-004",
+  "deck": "race-privilege",
+  "level": "L1",
+  "text": "WHAT STEREOTYPES DO YOU THINK HAVE BEEN MADE ABOUT YOU, IF ANY?",
+  "src": "p123c6"
+ },
+ {
+  "id": "race-privilege-005",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "WHAT HAS BEEN YOUR PERSONAL EXPERIENCE WITH POLICE? WHY DO YOU THINK THAT IS? WHEN YOU GET PULLED OVER HOW SAFE DO YOU FEEL?",
+  "src": "p123c7"
+ },
+ {
+  "id": "race-privilege-006",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "WHAT DID THE PEOPLE THAT RAISED YOU TEACH YOU ABOUT RACE? DIRECTLY OR INDIRECTLY?",
+  "src": "p125c0"
+ },
+ {
+  "id": "race-privilege-007",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "WHEN WAS THE LAST TIME YOU HAVE A SHIFT IN PERSPECTIVE REGARDING THE TOPIC OF RACE/RACISM? HOW DID THAT SHIFT OCCUR FOR YOU?",
+  "src": "p125c1"
+ },
+ {
+  "id": "race-privilege-008",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "HOW DO YOU FEEL ABOUT CANCEL CULTURE IN REGARDS TO RACE/RACISM? WHAT ROLE DOES IT PLAY? HOW DOES IT HELP? HOW DOES IT HURT?",
+  "src": "p125c2"
+ },
+ {
+  "id": "race-privilege-009",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "HAVE YOU EVER BEEN CALLED OUT FOR SAYING SOMETHING INSENSITIVE REGARDING RACE? HOW DID IT MAKE YOU FEEL? DID IT CHANGE YOU? WHY OR WHY NOT?",
+  "src": "p125c3"
+ },
+ {
+  "id": "race-privilege-010",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "HOW DO YOU DEFINE “PRIVILEGE”? ARTICULATE WHAT PRIVILEGES YOU THINK YOU HAVE.",
+  "src": "p125c4"
+ },
+ {
+  "id": "race-privilege-011",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "WHAT DO YOU FEEL WHEN YOU HEAR “BLACK LIVES MATTER”? “ALL LIVES MATTER”?",
+  "src": "p125c5"
+ },
+ {
+  "id": "race-privilege-012",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "WHAT DID YOU GROW UP BELIEVING “BEAUTIFUL” LOOKED LIKE? WHERE DID THAT COME FROM? HOW HAS IT EVOLVED?",
+  "src": "p125c6"
+ },
+ {
+  "id": "race-privilege-013",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "HAVE YOU EVER HAD TO UNFRIEND OR CREATE A BOUNDARY TOWARDS SOMEONE YOU LOVE BECAUSE OF A DISCONNECT CONCERNING THE TOPIC OF RACE/RACISM?",
+  "src": "p125c7"
+ },
+ {
+  "id": "race-privilege-014",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "ON A SCALE OF 1-10 HOW WOULD YOU RATE YOUR CURRENT KNOWLEDGE OF YOUR NATION’S HISTORIC REGARDING OR SLAVERY AND SYSTEMIC RACISM? WHAT CAN YOU DO TO HELP RAISE YOUR KNOWLEDGE BY 1 POINT?",
+  "src": "p127c0"
+ },
+ {
+  "id": "race-privilege-015",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "WHAT’S AN UNPOPULAR OPINION YOU HOLD REGARDING RACE/RACISM THAT YOU FEEL TOO AFRAID TO VOICE? HAVE YOU EVER CHALLENGED THAT OPINION?",
+  "src": "p127c1"
+ },
+ {
+  "id": "race-privilege-016",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "HAVE YOU EVER EXPERIENCED RACISM IN YOUR FRIEND/PEER GROUP? DID YOU CALL IT OUT? WHY OR WHY NOT?",
+  "src": "p127c2"
+ },
+ {
+  "id": "race-privilege-017",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "IN YOU DAY TO DAY LIFE, HOW OFTEN DO YOU THINK ABOUT RACE/THE COLOUR OF YOUR OWN SKIN? WHY DO YOU THINK THAT IS?",
+  "src": "p127c3"
+ },
+ {
+  "id": "race-privilege-018",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "WHAT QUALITIES DO YOU ASSOCIATE WITH A GOOD LISTENER?",
+  "src": "p127c4"
+ },
+ {
+  "id": "race-privilege-019",
+  "deck": "race-privilege",
+  "level": "reminder",
+  "text": "BE OPEN TO CHANGING YOUR MIND WHEN RECEIVING NEW INFORMATION, ESPECIALLY IF IT MAKES YOU UNCOMFORTABLE.",
+  "src": "p127c5"
+ },
+ {
+  "id": "race-privilege-020",
+  "deck": "race-privilege",
+  "level": "L2",
+  "text": "HAS YOU FAMILY EVER SAID SOMETHING YOU DEEPLY DISAGREED WITH REGARDING THE TOPIC RACE/RACISM? HOW DID YOU RESPOND?",
+  "src": "p127c6"
+ },
+ {
+  "id": "race-privilege-021",
+  "deck": "race-privilege",
+  "level": "L3",
+  "text": "HOW CAN YOU TURN YOUR PRIVILEGE INTO POSITIVE CHANGE WITH YOUR VOICE AND RESOURCES?",
+  "src": "p127c7"
+ },
+ {
+  "id": "race-privilege-022",
+  "deck": "race-privilege",
+  "level": "wildcard",
+  "text": "WRITE DOWN ONE LESSON THIS CONVERSATION TAUGHT YOU. COMPARE.",
+  "src": "p129c0"
+ },
+ {
+  "id": "race-privilege-023",
+  "deck": "race-privilege",
+  "level": "L3",
+  "text": "HOW CAN YOU BE A BETTER LISTENER TO THINGS YOU DON’T UNDERSTAND?",
+  "src": "p129c1"
+ },
+ {
+  "id": "voting-001",
+  "deck": "voting",
+  "level": "none",
+  "text": "WHEN WAS THE LAST TIME YOU CHANGED YOUR MIND ABOUT SOMETHING POLITICALLY? WHAT PROMPTED YOUR SHIFT IN PERSPECTIVE?",
+  "src": "p129c2"
+ },
+ {
+  "id": "voting-002",
+  "deck": "voting",
+  "level": "none",
+  "text": "WHAT’S ONE THING YOU FEEL UNINFORMED ABOUT POLITICALLY THAT YOU’D LIKE TO GATHER MORE INFORMATION ON? WHAT’S ONE SMALL STEP YOU CAN TAKE TOWARDS GAINING MORE KNOWLEDGE ON THIS TOPIC?",
+  "src": "p129c3"
+ },
+ {
+  "id": "race-privilege-024",
+  "deck": "race-privilege",
+  "level": "L3",
+  "text": "WHAT DO YOU HOPE FUTURE GENERATIONS UNDERSTAND ABOUT RACE? WHAT IS OUR ROLE IN HELPING THEM UNDERSTAND?",
+  "src": "p129c4"
+ },
+ {
+  "id": "voting-003",
+  "deck": "voting",
+  "level": "none",
+  "text": "IF THE ELECTION DOESN’T GO YOUR WAY, HOW WILL YOU OR YOUR LOVED ONE’S LIVES BE AFFECTED? ARE YOU INFORMED ABOUT THE POTENTIAL IMPACT YOUR VOTE/LACK THEREOF WILL HAVE?",
+  "src": "p129c5"
+ },
+ {
+  "id": "voting-004",
+  "deck": "voting",
+  "level": "none",
+  "text": "WHAT BOUNDARIES FEEL IMPORTANT FOR YOU TO SET IN THE CONVERSATION SURROUNDING POLITICS?",
+  "src": "p129c6"
+ },
+ {
+  "id": "voting-005",
+  "deck": "voting",
+  "level": "none",
+  "text": "HOW DO YOU WANT TO USE YOUR SOCIAL MEDIA PLATFORM (BIG OR SMALL) TO ENACT CHANGE THAT FEELS AUTHENTIC TO YOU?",
+  "src": "p129c7"
+ },
+ {
+  "id": "voting-006",
+  "deck": "voting",
+  "level": "none",
+  "text": "HOW DID YOUR UPBRINGING SHAPE YOUR VIEWS ON POLITICS? HOW HAS IT EVOLVED OVER TIME?",
+  "src": "p131c0"
+ },
+ {
+  "id": "voting-007",
+  "deck": "voting",
+  "level": "none",
+  "text": "WHAT DO YOU WISH THE PEOPLE FROM THE OTHER SIDE OF THE POLITICAL SPECTRUM UNDERSTOOD ABOUT YOUR POV? WHAT DO YOU WISH YOU UNDERSTOOD ABOUT THEIRS.",
+  "src": "p131c1"
+ },
+ {
+  "id": "voting-008",
+  "deck": "voting",
+  "level": "none",
+  "text": "THE WORLD NEEDS MORE____, AND LESS ____.",
+  "src": "p131c2"
+ },
+ {
+  "id": "voting-009",
+  "deck": "voting",
+  "level": "none",
+  "text": "WHEN WAS THE FIRST TIME YOU VOTED? WHAT GOT YOU TO THE VOTING BOOTH?",
+  "src": "p131c3"
+ },
+ {
+  "id": "voting-010",
+  "deck": "voting",
+  "level": "none",
+  "text": "IF YOU COULD ENACT ONE POLICY TODAY, WHAT WOULD IT BE AND WHY?",
+  "src": "p131c4"
+ },
+ {
+  "id": "voting-011",
+  "deck": "voting",
+  "level": "none",
+  "text": "I DO/DON’T VOTE BECAUSE...",
+  "src": "p131c5"
+ },
+ {
+  "id": "voting-012",
+  "deck": "voting",
+  "level": "none",
+  "text": "WHERE DO YOU GET THE MAJORITY OF YOUR VOTING INFORMATION? HOW HAVE YOU CHECKED ITS CREDIBILITY?",
+  "src": "p131c6"
+ },
+ {
+  "id": "voting-013",
+  "deck": "voting",
+  "level": "none",
+  "text": "IF YOU COULD ASK EACH PRESIDENTIAL CANDIDATE ONE QUESTION AND GET AN HONEST ANSWER, WHAT WOULD YOU ASK.",
+  "src": "p131c7"
+ },
+ {
+  "id": "voting-014",
+  "deck": "voting",
+  "level": "none",
+  "text": "WHAT DO MOST PEOPLE ASSUME ABOUT YOUR POLITICAL VIEWS/BELIEFS? HOW ACCURATE ARE THOSE ASSUMPTIONS?",
+  "src": "p133c0"
+ },
+ {
+  "id": "voting-015",
+  "deck": "voting",
+  "level": "none",
+  "text": "HOW WOULD YOU DESCRIBE THE IMPORTANCE OF VOTING TO YOUR YOUNGER SELF?",
+  "src": "p133c1"
+ },
+ {
+  "id": "voting-016",
+  "deck": "voting",
+  "level": "none",
+  "text": "WHAT’S ONE THING YOU KNOW ABOUT THE VOTING PROCESS TODAY, THAT YOU DIDN’T IN THE PREVIOUS ELECTION?",
+  "src": "p133c2"
+ },
+ {
+  "id": "voting-017",
+  "deck": "voting",
+  "level": "none",
+  "text": "HOW HAS SOCIAL MEDIA INFLUENCED YOUR POLITICAL VIEWS, IF AT ALL?",
+  "src": "p133c3"
+ },
+ {
+  "id": "voting-018",
+  "deck": "voting",
+  "level": "reminder",
+  "text": "NORMALIZE SAYING I DON’T HAVE ENOUGH INFORMATION ON THIS TOPIC TO FORM AN OPINION JUST YET.",
+  "src": "p133c4"
+ },
+ {
+  "id": "voting-019",
+  "deck": "voting",
+  "level": "none",
+  "text": "WHAT BIASES CAN YOU RECOGNIZE THAT YOU HAVE REGARDING YOUR CURRENT POLITICAL STANCE?",
+  "src": "p133c5"
+ },
+ {
+  "id": "voting-020",
+  "deck": "voting",
+  "level": "none",
+  "text": "DO YOU HAVE OPEN CONVERSATION WITH PEOPLE WHO HOLD DIFFERING POLITICAL VIEWS AS YOU? WHY OR WHY NOT?",
+  "src": "p133c6"
+ },
+ {
+  "id": "voting-021",
+  "deck": "voting",
+  "level": "none",
+  "text": "HAVE YOU EVER HAD THE OPPORTUNITY TO VOTE AND NOT TAKEN IT? IF SO, WHY?",
+  "src": "p133c7"
+ },
+ {
+  "id": "voting-022",
+  "deck": "voting",
+  "level": "none",
+  "text": "IS THERE A POLITICAL VIEW YOU HAVE THAT YOU FEEL TOO AFRAID TO ADMIT PUBLICLY?",
+  "src": "p135c0"
+ },
+ {
+  "id": "voting-023",
+  "deck": "voting",
+  "level": "none",
+  "text": "DO YOU HOLD ANY LIMITING BELIEFS WHEN IT COMES TO VOTING? IF SO, WHAT ARE THEY?",
+  "src": "p135c1"
+ },
+ {
+  "id": "bumble-001",
+  "deck": "bumble",
+  "level": "L1",
+  "text": "DO I SEEM LIKE MORE OF A CREATIVE OR ANALYTICAL TYPE?",
+  "src": "p135c3"
+ },
+ {
+  "id": "voting-024",
+  "deck": "voting",
+  "level": "none",
+  "text": "WAS THERE A MOMENT RECENTLY THAT DRASTICALLY SHAPED YOUR POLITICAL IDEOLOGY? IF SO, WHAT WAS IT?",
+  "src": "p135c4"
+ },
+ {
+  "id": "voting-025",
+  "deck": "voting",
+  "level": "reminder",
+  "text": "LISTEN TO LEARN EVEN WHEN YOU DON’T AGREE.",
+  "src": "p135c5"
+ },
+ {
+  "id": "bumble-002",
+  "deck": "bumble",
+  "level": "L1",
+  "text": "HOW ORGANIZED DO YOU THINK MY COMPUTER DESKTOP IS ON A SCALE 1-10?",
+  "src": "p135c7"
+ },
+ {
+  "id": "bumble-003",
+  "deck": "bumble",
+  "level": "L1",
+  "text": "HOW WOULD YOU DESCRIBE WHAT YOU THINK MY TYPE IS IN THREE WORDS?",
+  "src": "p137c0"
+ },
+ {
+  "id": "bumble-004",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT’S THE MOST EMBARRASSING THING THAT’S EVER HAPPENED TO YOU ON A DATE?",
+  "src": "p137c1"
+ },
+ {
+  "id": "bumble-005",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT’S THE NICEST THING YOU CAN REMEMBER DOING FOR A FRIEND?",
+  "src": "p137c2"
+ },
+ {
+  "id": "bumble-006",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT CAREER LOW HAS TAUGHT YOU THE MOST?",
+  "src": "p137c3"
+ },
+ {
+  "id": "bumble-007",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "FINISH THE SENTENCE: DATING IS...",
+  "src": "p137c4"
+ },
+ {
+  "id": "bumble-008",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT DO YOU WISH YOU COULD SPEND MORE TIME DOING?",
+  "src": "p137c5"
+ },
+ {
+  "id": "bumble-009",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT’S THE MOST FULFILLING MOMENT OF YOUR CAREER THIS PAST YEAR?",
+  "src": "p137c6"
+ },
+ {
+  "id": "bumble-010",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "HAS A QUOTE EVER CHANGED YOUR WORLDVIEW?",
+  "src": "p137c7"
+ },
+ {
+  "id": "bumble-011",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "HOW OLD DO YOU FEEL, EMOTIONALLY?",
+  "src": "p139c0"
+ },
+ {
+  "id": "bumble-012",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WILL I FIND YOUR EX ON YOUR INSTAGRAM FEED? WHY OR WHY NOT?",
+  "src": "p139c1"
+ },
+ {
+  "id": "bumble-013",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT DID THE PEOPLE WHO RAISED YOU TEACH YOU ABOUT LOVE?",
+  "src": "p139c2"
+ },
+ {
+  "id": "bumble-014",
+  "deck": "bumble",
+  "level": "wildcard",
+  "text": "ILLUSTRATE YOUR CURRENT LOVE LIFE (30 SECONDS).",
+  "src": "p139c3"
+ },
+ {
+  "id": "bumble-015",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHEN’S THE LAST TIME YOU SURPRISED YOURSELF?",
+  "src": "p139c4"
+ },
+ {
+  "id": "bumble-016",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "DESCRIBE YOUR PERFECT DATE.",
+  "src": "p139c5"
+ },
+ {
+  "id": "bumble-017",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT HAVE YOU LET GO OF THIS YEAR THAT’S MADE THE MOST POSITIVE CHANGE?",
+  "src": "p139c6"
+ },
+ {
+  "id": "bumble-018",
+  "deck": "bumble",
+  "level": "wildcard",
+  "text": "WRITE DOWN THE THREE MOST IMPORTANT THINGS TO YOU IN A RELATIONSHIP (30 SECONDS).",
+  "src": "p139c7"
+ },
+ {
+  "id": "bumble-019",
+  "deck": "bumble",
+  "level": "wildcard",
+  "text": "THINK OF A MOVIE THAT ALWAYS MAKES YOU CRY.",
+  "src": "p141c0"
+ },
+ {
+  "id": "bumble-020",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "HOW WOULD YOU DESCRIBE YOUR EX IN THREE WORDS? HOW WOULD THEY DESCRIBE YOU?",
+  "src": "p141c1"
+ },
+ {
+  "id": "bumble-021",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "IF FUNDING WEREN’T AN ISSUE, WHAT IDEA WOULD YOU EXECUTE THIS YEAR?",
+  "src": "p141c2"
+ },
+ {
+  "id": "bumble-022",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT QUESTION ARE YOU TRYING TO ANSWER IN YOUR LIFE RIGHT NOW?",
+  "src": "p141c3"
+ },
+ {
+  "id": "bumble-023",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHEN WAS THE LAST TIME SOMEONE MADE YOU FEEL SPECIAL ON YOUR BIRTHDAY?",
+  "src": "p141c4"
+ },
+ {
+  "id": "bumble-024",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT TAKES SOMEONE FROM A FRIEND TO A BEST FRIEND?",
+  "src": "p141c5"
+ },
+ {
+  "id": "bumble-025",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT ARE YOU PASSIONATE ABOUT?",
+  "src": "p141c6"
+ },
+ {
+  "id": "bumble-026",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "ADMIT SOMETHING: IS THERE AN IMAGE OF YOURSELF YOU TRY TO PROJECT ON A FIRST DATE THAT YOU WISH YOU COULD LET GO OF?",
+  "src": "p141c7"
+ },
+ {
+  "id": "bumble-027",
+  "deck": "bumble",
+  "level": "wildcard",
+  "text": "WRITE DOWN A DATING PET PEEVE (30 SECONDS).",
+  "src": "p143c0"
+ },
+ {
+  "id": "bumble-028",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT DATING ADVICE WOULD YOU GIVE YOUR YOUNGER SELF?",
+  "src": "p143c1"
+ },
+ {
+  "id": "bumble-029",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT’S YOUR LEAST FAVOURITE QUESTION TO BE ASKED ON A DATE? WHAT DO YOU WISH YOU WERE ASKED MORE?",
+  "src": "p143c2"
+ },
+ {
+  "id": "bumble-030",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "ADMIT SOMETHING: WHAT COULD YOU HAVE DONE BETTER IN YOUR PREVIOUS RELATIONSHIP(S)?",
+  "src": "p143c3"
+ },
+ {
+  "id": "bumble-031",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT HAS BEING SINGLE TAUGHT YOU ABOUT YOURSELF, IF ANYTHING?",
+  "src": "p143c4"
+ },
+ {
+  "id": "bumble-032",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT TYPE OF SOCIAL SITUATION MAKES YOU FEEL THE MOST AWKWARD?",
+  "src": "p143c5"
+ },
+ {
+  "id": "bumble-033",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT ARE YOU NOT GIVING ENOUGH TIME TO, CURRENTLY?",
+  "src": "p143c6"
+ },
+ {
+  "id": "bumble-034",
+  "deck": "bumble",
+  "level": "L2",
+  "text": "WHAT ARE YOU BETTER AT THAN MOST PEOPLE YOU KNOW?",
+  "src": "p143c7"
+ },
+ {
+  "id": "bumble-035",
+  "deck": "bumble",
+  "level": "L3",
+  "text": "WHAT DO YOU ADMIRE MOST ABOUT ME?",
+  "src": "p145c0"
+ },
+ {
+  "id": "bumble-036",
+  "deck": "bumble",
+  "level": "L3",
+  "text": "WHAT’S THE MOST ATTRACTIVE QUALITY ABOUT ME THAT ISN’T PHYSICAL?",
+  "src": "p145c4"
+ },
+ {
+  "id": "bumble-037",
+  "deck": "bumble",
+  "level": "L1",
+  "text": "IF I WERE A SONG, WHICH SONG WOULD I BE?",
+  "src": "p147c0"
+ },
+ {
+  "id": "cann-001",
+  "deck": "cann",
+  "level": "L1",
+  "text": "WHAT’S SOMETHING YOU’VE NEVER NOTICED ABOUT ME UNTIL THIS MOMENT?",
+  "src": "p147c1"
+ },
+ {
+  "id": "cann-002",
+  "deck": "cann",
+  "level": "L2",
+  "text": "WHAT HAVE YOU BEEN FEELING A LOT OF RECENTLY?",
+  "src": "p147c2"
+ },
+ {
+  "id": "cann-003",
+  "deck": "cann",
+  "level": "wildcard",
+  "text": "WHAT’S YOUR FAVOURITE GUILTY PLEASURE?",
+  "src": "p147c3"
+ },
+ {
+  "id": "bumble-038",
+  "deck": "bumble",
+  "level": "L1",
+  "text": "ON A SCALE OF 1-10, HOW HIGH DO YOU THINK I AM?",
+  "src": "p147c4"
+ },
+ {
+  "id": "cann-004",
+  "deck": "cann",
+  "level": "wildcard",
+  "text": "WRITE A RAP VERSE THAT DESCRIBES YOUR CURRENT LOVE LIFE AND PERFORM IT.",
+  "src": "p147c5"
+ },
+ {
+  "id": "cann-005",
+  "deck": "cann",
+  "level": "L2",
+  "text": "WHAT DO YOU WISH YOU COULD SEE WITH A BRAND NEW PERSPECTIVE?",
+  "src": "p147c6"
+ },
+ {
+  "id": "cann-006",
+  "deck": "cann",
+  "level": "L2",
+  "text": "WHAT’S THE MOST EMBARRASSED YOU REMEMBER BEING FROM SOMETHING YOU DID WHILE DRUNK?",
+  "src": "p147c7"
+ },
+ {
+  "id": "cann-007",
+  "deck": "cann",
+  "level": "L2",
+  "text": "WHAT DO YOU WANT TO SPEND LESS OF YOUR TIME DOING?",
+  "src": "p149c0"
+ },
+ {
+  "id": "cann-008",
+  "deck": "cann",
+  "level": "L2",
+  "text": "WHAT DOES “TAKING CARE OF YOU” LOOK LIKE IN THIS CHAPTER OF YOUR LIFE?",
+  "src": "p149c1"
+ },
+ {
+  "id": "cann-009",
+  "deck": "cann",
+  "level": "L2",
+  "text": "WHAT IDEA OF YOURS DO YOU FEEL MOST EXCITED ABOUT?",
+  "src": "p149c2"
+ },
+ {
+  "id": "cann-010",
+  "deck": "cann",
+  "level": "L2",
+  "text": "IF YOU COULD HAVE ANY FOOD IN THE WORLD RIGHT NOW, WHAT WOULD IT BE?",
+  "src": "p149c3"
+ },
+ {
+  "id": "cann-011",
+  "deck": "cann",
+  "level": "L2",
+  "text": "WHAT ARE YOU MOST GRATEFUL FOR IN THIS CURRENT MOMENT?",
+  "src": "p149c4"
+ },
+ {
+  "id": "cann-012",
+  "deck": "cann",
+  "level": "wildcard",
+  "text": "SHARE A VIDEO THAT ALWAYS MAKES YOU LAUGH WITH YOUR PARTNER.",
+  "src": "p149c5"
+ },
+ {
+  "id": "cann-013",
+  "deck": "cann",
+  "level": "wildcard",
+  "text": "MAKE THE WEIRDEST NOISE YOU CAN.",
+  "src": "p149c6"
+ },
+ {
+  "id": "cann-014",
+  "deck": "cann",
+  "level": "wildcard",
+  "text": "DRAW A SNAPSHOT OF YOUR DREAM VACATION.",
+  "src": "p149c7"
+ },
+ {
+  "id": "cann-015",
+  "deck": "cann",
+  "level": "L2",
+  "text": "WHO IN YOUR LIFE DO YOU NEED TO SET BETTER BOUNDARIES WITH?",
+  "src": "p151c0"
+ },
+ {
+  "id": "cann-016",
+  "deck": "cann",
+  "level": "L2",
+  "text": "WHAT’S BEEN HARD FOR YOU TO SAY OUT LOUD? GET IT OFF YOUR CHEST.",
+  "src": "p151c1"
+ },
+ {
+  "id": "cann-017",
+  "deck": "cann",
+  "level": "L2",
+  "text": "WHAT DO YOU NEED RIGHT NOW BUT AREN’T COMMUNICATING?",
+  "src": "p151c4"
+ },
+ {
+  "id": "cann-018",
+  "deck": "cann",
+  "level": "wildcard",
+  "text": "DESCRIBE THE BEST PARTY YOU’VE BEEN TO RECENTLY IN A DIFFERENT ACCENT.",
+  "src": "p151c5"
+ },
+ {
+  "id": "cann-019",
+  "deck": "cann",
+  "level": "wildcard",
+  "text": "WHAT’S YOUR FAVOURITE PICK-ME-UP?",
+  "src": "p151c6"
+ }
+]

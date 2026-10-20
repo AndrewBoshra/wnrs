@@ -91,6 +91,9 @@ export function gameProps(s: Session) {
     reminders: s.config.reminders,
     final_card: s.config.finalCard,
     total_cards: totalCards(s),
+    // Also stamp the names onto the visitor's person profile on every game event, so resumed games count too.
+    $set: { last_players: s.players.join(' & '), last_player_1: s.players[0], last_player_2: s.players[1] },
+    $set_once: { first_player_1: s.players[0], first_player_2: s.players[1] },
   };
 }
 

@@ -1,6 +1,7 @@
 import type { Session } from '../types';
 import type { Ctx } from '../App';
-import { navigate } from '../App';
+import { gameProps, navigate } from '../App';
+import { track } from '../analytics';
 import { TopBar } from '../components/TopBar';
 import { deckById } from '../data/decks';
 import { cardsSeen, playerNames, restartSession, totalCards } from '../game';
@@ -50,7 +51,11 @@ export function Home({ ctx, sessions, onChange, onDelete }: { ctx: Ctx; sessions
                     <button className="btn btn-primary" onClick={() => navigate(`/play/${s.id}`)}>
                       {t.continueGame}
                     </button>
-                    <button className="btn btn-ghost" onClick={() => confirm(t.restartConfirm) && onChange(restartSession(s))}>
+                    <button className="btn btn-ghost" onClick={() => {
+                        if (!confirm(t.restartConfirm)) return;
+                        track('game_restarted', { ...gameProps(s), cards_seen: seen });
+                        onChange(restartSession(s));
+                      }}>
                       {t.restart}
                     </button>
                     <button className="btn btn-ghost danger" onClick={() => confirm(t.deleteConfirm) && onDelete(s.id)}>

@@ -1,7 +1,8 @@
 import { useEffect, useRef, useState } from 'react';
 import type { Lang, Session } from '../types';
 import type { Ctx } from '../App';
-import { navigate } from '../App';
+import { gameProps, navigate } from '../App';
+import { track } from '../analytics';
 import { TopBar } from '../components/TopBar';
 import { CardView } from '../components/CardView';
 import { deckById } from '../data/decks';
@@ -23,6 +24,23 @@ export function Play({ ctx, session, onChange }: { ctx: Ctx; session: Session; o
   const touch = useRef<{ x: number; y: number } | null>(null);
 
   useEffect(() => setCardLang(ctx.lang), [ctx.lang]);
+
+  // One event per card shown (and per round intro / finish), keyed on position so re-renders don't double count.
+  const posKey = `${session.id}:${session.stageIndex}:${session.cardIndex}:${session.finished}`;
+  useEffect(() => {
+    const base = { ...gameProps(session), lang: ctx.lang, round: session.stages[session.stageIndex]?.key, round_index: session.stageIndex };
+    if (session.finished) {
+      track('game_finished', base);
+      return;
+    }
+    if (session.cardIndex < 0) {
+      track('round_started', { ...base, round_cards: session.stages[session.stageIndex].cardIds.length });
+      return;
+    }
+    const c = getCard(session.stages[session.stageIndex].cardIds[session.cardIndex]);
+    if (c) track('card_viewed', { ...base, card_id: c.id, deck: c.deck, level: c.level, card_index: session.cardIndex, cards_seen: cardsSeen(session) + 1 });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [posKey]);
 
   const stage = session.stages[session.stageIndex];
   const card = !session.finished && session.cardIndex >= 0 ? getCard(stage.cardIds[session.cardIndex]) : undefined;
@@ -91,7 +109,13 @@ export function Play({ ctx, session, onChange }: { ctx: Ctx; session: Session; o
               <h1>{t.done}</h1>
               <p className="muted">{t.doneBlurb}</p>
               <div className="intro-actions">
-                <button className="btn btn-primary btn-lg" onClick={() => onChange(restartSession(session))}>
+                <button
+                  className="btn btn-primary btn-lg"
+                  onClick={() => {
+                    track('game_restarted', { ...gameProps(session), cards_seen: totalCards(session) });
+                    onChange(restartSession(session));
+                  }}
+                >
                   {t.playAgain}
                 </button>
                 <button className="btn btn-ghost" onClick={() => navigate('/')}>

@@ -1,7 +1,8 @@
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import type { Lang, Session, Settings } from './types';
 import { loadSessions, loadSettings, saveSessions, saveSettings } from './storage';
-import { migrateSession } from './game';
+import { migrateSession, totalCards } from './game';
+import { track } from './analytics';
 import { STRINGS } from './i18n';
 import { Home } from './screens/Home';
 import { Setup } from './screens/Setup';
@@ -40,7 +41,10 @@ export function App() {
 
   useEffect(() => saveSessions(sessions), [sessions]);
 
-  const setLang = useCallback((lang: Lang) => setSettings((s) => ({ ...s, lang })), []);
+  const setLang = useCallback((lang: Lang) => {
+    track('language_changed', { lang });
+    setSettings((s) => ({ ...s, lang }));
+  }, []);
   const upsertSession = useCallback((session: Session) => {
     setSessions((list) => {
       const i = list.findIndex((s) => s.id === session.id);
@@ -50,7 +54,13 @@ export function App() {
       return next;
     });
   }, []);
-  const deleteSession = useCallback((id: string) => setSessions((list) => list.filter((s) => s.id !== id)), []);
+  const deleteSession = useCallback((id: string) => {
+    setSessions((list) => {
+      const s = list.find((x) => x.id === id);
+      if (s) track('game_deleted', { ...gameProps(s), finished: s.finished });
+      return list.filter((x) => x.id !== id);
+    });
+  }, []);
 
   const t = STRINGS[settings.lang];
   const ctx = useMemo(() => ({ t, lang: settings.lang, setLang }), [t, settings.lang, setLang]);
@@ -67,4 +77,21 @@ export function App() {
   return <Home ctx={ctx} sessions={sessions} onChange={upsertSession} onDelete={deleteSession} />;
 }
 
-export type Ctx = { t: (typeof STRINGS)['en']; lang: Lang; setLang: (l: Lang) => void };
+/** The analytics properties every game event carries. */
+export function gameProps(s: Session) {
+  return {
+    game_id: s.id,
+    players: s.players.join(' & '),
+    player_1: s.players[0],
+    player_2: s.players[1],
+    decks: s.config.decks,
+    deck_count: s.config.decks.length,
+    levels: s.config.levels,
+    wildcards: s.config.wildcards,
+    reminders: s.config.reminders,
+    final_card: s.config.finalCard,
+    total_cards: totalCards(s),
+  };
+}
+
+export type Ctx ={ t: (typeof STRINGS)['en']; lang: Lang; setLang: (l: Lang) => void };

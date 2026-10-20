@@ -2,3 +2,5 @@ node_modules
 dist
 *.pdf
 .DS_Store
+.env
+.env.local

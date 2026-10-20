@@ -31,6 +31,22 @@ npm run preview    # serve the built site locally
 
 The build uses relative paths (`base: './'` in `vite.config.ts`) and hash routing, so it also works from any static host or sub-folder (Netlify, Vercel, Cloudflare Pages, or simply opening `dist/index.html`).
 
+## Analytics (optional)
+
+The site can send usage events to [PostHog](https://posthog.com) (the free tier is plenty). Nothing is sent unless a key is set at build time.
+
+1. Create a PostHog project and copy its **Project API key** (starts with `phc_`) and host (`https://eu.i.posthog.com` or `https://us.i.posthog.com`).
+2. Add them as repository **variables** (Settings → Secrets and variables → Actions → Variables): `VITE_POSTHOG_KEY` and `VITE_POSTHOG_HOST`. Or from the terminal:
+   ```bash
+   gh variable set VITE_POSTHOG_KEY --body phc_xxx
+   gh variable set VITE_POSTHOG_HOST --body https://eu.i.posthog.com
+   ```
+3. Re-run the deploy workflow (or push).
+
+Events: `game_created`, `round_started`, `card_viewed`, `game_finished`, `game_restarted`, `game_deleted`, `language_changed`, plus `$pageview` / `$pageleave`. Every game event carries the player names, the decks and levels chosen, the extras toggles and the card count. Player names are also stored on the visitor's person profile (`last_players`, `first_player_1`, ...). Country, device and browser come from PostHog's own enrichment. Visitors can opt out with `localStorage.setItem('wnrs:analytics','off')` in the browser console.
+
+For local development copy `.env.example` to `.env.local` and fill in the key.
+
 ## Card data
 
 - `src/data/cards.en.json` — all 581 cards (13 decks), extracted from the printed PDF and de-duplicated.

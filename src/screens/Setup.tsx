@@ -1,7 +1,8 @@
 import { useMemo, useState } from 'react';
 import type { GameConfig, PlayLevel, Session } from '../types';
 import type { Ctx } from '../App';
-import { navigate } from '../App';
+import { gameProps, navigate } from '../App';
+import { identifyPlayers, track } from '../analytics';
 import { TopBar } from '../components/TopBar';
 import { DECKS } from '../data/decks';
 import { CARDS, LEVELS, countCards, createSession } from '../game';
@@ -97,7 +98,12 @@ export function Setup({ ctx, onCreate }: { ctx: Ctx; onCreate: (s: Session) => v
       <div className="sticky-footer">
         <div className="container narrow row" dir="ltr">
           <span className={`muted ${canStart ? '' : 'warn'}`} dir={lang === 'ar' ? 'rtl' : 'ltr'}>{canStart ? t.totalCards(total) : t.needSomething}</span>
-          <button className="btn btn-primary btn-lg" disabled={!canStart} onClick={() => onCreate(createSession(players, config))}>
+          <button className="btn btn-primary btn-lg" disabled={!canStart} onClick={() => {
+              const s = createSession(players, config);
+              identifyPlayers(s.players);
+              track('game_created', { ...gameProps(s), lang });
+              onCreate(s);
+            }}>
             {t.start}
           </button>
         </div>
